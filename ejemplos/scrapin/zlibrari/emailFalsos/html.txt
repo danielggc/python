@@ -1,0 +1,53 @@
+html><head><style>body {font-family:sans-serif;font-size:14px;padding:0;margin:0;}</style>
+
+    
+        <title></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <div style="line-height: 160%; font-size:13pt; font-family: 'Helvetica Neue','Helvetica', 'Proxima Nova', 'Gotham', 'Arial';">
+            <div>
+                <div style="background: #FAFAFA url('https://singlelogin.org/img/body-bg.png');max-width: 100%;">
+                    <center>
+                        <div style="padding: 40px 40px 100px 40px;max-width: 800px;text-align: center;">
+                            <center>
+                                <table style="box-shadow: 0 0 5px rgba(0,0,0,0.35);background-color: #fff; border-radius: 0px;" width="600" cellspacing="0" cellpadding="0" border="0">
+                                    <tbody style="background: #fff;">
+                                        <tr>
+                                            <td style="padding: 0;border-top: 5px solid #49AFD0;">
+                                                <a target="_blank" style="font-size: 22px;text-decoration: none;" href="https://singlelogin.org/">
+                                                    <img alt="" src="https://singlelogin.org/img/logo.png" style="border:0;padding:14px 10px 10px 10px" border="0">
+                                                </a>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="padding:0px 30px 20px 30px;text-align: left;color: #000">
+                                                <p>
+                                                    Hi! <br><br>
+
+Please click the link below to complete your registration on Z-Library .
+<br><br>
+<a href="https://singlelogin.org/regconfirm/0e7cc0fe74b2d62b93f57b530c8fee3e/3687059">https://singlelogin.org/regconfirm/0e7cc0fe74b2d62b93f57b530c8fee3e/3687059</a><br><br>
+Account information<br>Email: adalbertoasdaawdercaasdsdf@maildrop.cc<br>Password: abochornarradabanalsblabal<br><br>
+<i>Z-Library Team</i>
+                                                </p>
+
+                                                <div style="font-size:9pt; color:#999; line-height: 140%;">
+                                                    You have received this letter because of your registration at https://singlelogin.org/. 
+                                                    If you want to be removed from this mailing list  - <a href="https://singlelogin.org/unsubscribe.php?mail=adalbertoasdaawdercaasdsdf@maildrop.cc">UNSUBSCRIBE </a>
+                                                </div>
+                                            </td>
+                                        </tr>
+                                        <tr>
+                                            <td style="height:30px;text-align: right;color:#A2CD3A; font-size: 10pt; padding:15px;" height="64">https://singlelogin.org/ 2020</td>
+                                        </tr>
+                                    </tbody>
+                                </table>
+                            </center>
+                        </div>
+
+                    </center>
+                </div>
+            </div>
+        </div>
+    

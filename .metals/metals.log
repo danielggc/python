@@ -1,0 +1,4 @@
+2020.08.02 00:32:10 INFO  started: Metals version 0.9.2 in workspace '/home/dgc7/ejersiciosLibros/pyaton' for client vscode.
+2020.08.02 00:32:11 INFO  time: initialize in 1.52s
+2020.08.02 00:32:16 WARN  no build tool detected in workspace '/home/dgc7/ejersiciosLibros/pyaton'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.08.02 01:58:27 INFO  shutting down Metals

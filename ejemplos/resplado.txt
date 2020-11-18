@@ -1,0 +1,17 @@
+
+
+    r=sqrt((x2-x1)**2 + (y2-y1)**2)
+    aceleracion_x1=m2*(x2-x1)/r**3
+    aceleracion_y1=m2*(x2-x1)/r**3
+    aceleracion_x2=m1*(x2-x1)/r**3
+    aceleracion_y2=m1*(x2-x1)/r**3
+    
+    velocidad_x1 +=aceleracion_x1
+    velocidad_x2 +=aceleracion_x2
+    velocidad_y1 +=aceleracion_y1
+    velocidad_y2 +=aceleracion_y2
+    
+    x1 +=velocidad_x1
+    x2 +=velocidad_x2
+    y1 +=velocidad_y1
+    y2 +=velocidad_y2

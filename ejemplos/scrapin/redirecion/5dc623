@@ -1,0 +1,2478 @@
+
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Mysterious Affair at Styles | Agatha Christie | download</title>
+<base href="/">
+
+                        <meta charset="utf-8">		                       
+                        <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+                        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                        <meta name="viewport" content="width=device-width, initial-scale=1">
+                        <meta name="title" content="The Mysterious Affair at Styles | Agatha Christie | download">
+			<meta name="description" content="The Mysterious Affair at Styles | Agatha Christie | download | B–OK. Download books for free. Find books">
+			<meta name="robots" content="index,all">
+			<meta name="distribution" content="global">
+			<meta http-equiv="cache-control" content="no-cache">
+			<meta http-equiv="pragma" content="no-cache">
+
+                        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+                        <link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+                        <link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+                        <link rel="manifest" href="/manifest.json">
+                        <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+                        <meta name="apple-mobile-web-app-title" content="Z-Library">
+                        <meta name="application-name" content="Z-Library">
+                        <meta name="theme-color" content="#ffffff">
+
+                        <meta name="propeller" content="49c350d528ba144cace841cac74260ab">
+	
+<!-- CSS SET -->
+<!-- JS SET --> 
+<link REL="SHORTCUT ICON" HREF="/favicon.ico">
+        <link rel="search" type="application/opensearchdescription+xml" href="/search.xml" title="Search for books in the library B-OK.org" />
+
+                    <link rel="stylesheet" type="text/css" href="/resources/build/global.css?0.188" />
+            <script type="text/javascript" src="/resources/build/global.js?0.188"></script>
+        
+        <link rel="stylesheet" type="text/css" href="/resources/ext/bootstrap-tagsinput/bootstrap-tagsinput.css" />
+<link rel="stylesheet" type="text/css" href="/resources/ext/lightbox/jquery.lightbox-0.5.css" />
+        <script type="text/javascript" src="/resources/ext/typeahead.js"></script>
+<script type="text/javascript" src="/resources/ext/bootstrap-tagsinput/bootstrap-tagsinput.min.js"></script>
+<script type="text/javascript" src="/resources/ext/lightbox/jquery.lightbox-0.5.min.js"></script>
+
+        <script>
+            const CurrentUser = new User(null)
+
+                    </script>
+    </head>
+
+    <body style="margin:0px;padding:0px;" class="books/details">
+        <table border="0" height="100%" width="100%" style="height:100%;" cellpadding="0" cellspacing="0">
+            <tbody>
+                <tr style="height:10px;">
+                    <td>
+                        <div class="container-fluid">
+                            <style>
+    div#colorBoxes ul li.active:nth-child(1)
+    {
+        border: 1px solid #378096;
+        box-shadow: 0 0 6px #7DBCCF;
+        border-top: 0px;
+
+    }
+
+    div#colorBoxes ul li.active:nth-child(2)
+    {
+        border: 1px solid #6e9b41;
+        box-shadow: 0 0 6px #a4e861;
+        border-top: 0px;
+    }
+</style>
+
+<div class="row">
+    <div class="col-md-12">
+        <div id="colorBoxes" class="darkShadow">
+            <ul>
+                <li style="background: #49afd0;" class="active">
+                    <a href="/">
+                        <span class="hidden-xs">5,093,593</span>
+                        Books                    </a>
+                </li>
+
+                <li style="background: #8ecd51;" class="">
+                    <a href="http://booksc.xyz/">
+                        <span class="hidden-xs">77,518,212</span>
+                        Articles                    </a>
+                </li>
+
+                <li style="background: #90a5a8;" class="hidden-xs"><a href="https://z-lib.org">ZLibrary Home</a></li>
+                <li style="background: #90a5a8;" class="visible-xs"><a href="https://z-lib.org">Home</a></li>
+            </ul>
+        </div>
+
+        <div role="navigation" class="navbar-default navbar-right" style="background-color: transparent;">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false" onclick="setTimeout(function () {$('#main-menu-dropdown').click()}, 100)">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+            </div>
+
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style="clear: both;">
+                <ul class="nav navbar-nav navbar-right" style="">
+                                            <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Sign in <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="http://singlelogin.org?from=b-ok.cc">Login</a></li>
+                                <li><a href="https://singlelogin.org/registration.php">Registration</a></li>
+                            </ul>
+                        </li>
+                    
+                    
+                    <li>
+                    <a href="/howtodonate.php" style="color:#8EB46A;">Donate</a>                    </li>
+                    <li class="dropdown">
+                        <a href="#" id="main-menu-dropdown" class="dropdown-toggle hidden-xs" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="true">
+                            <span style="font-size: 120%;" class="glyphicon glyphicon-menu-hamburger" aria-hidden="true"></span>
+                                                    </a>
+                        <ul class="dropdown-menu">
+                                                        <li class="dropdown-header">Books</li>
+                                                            <li><a href="/book-add.php">Add book</a></li>
+                                <li><a href="/categories">Categories</a></li>
+                                <li><a href="/popular.php">Most Popular</a></li>
+                                                                                    <li><a href="/recently.php">Recently Added</a></li>
+                                                        <li role="separator" class="divider"></li>
+                            <li class="dropdown-header">Z-Library Project</li>
+                            <li><a href="/top-zlibrarians.php">Top Z-Librarians</a></li>
+                            <li><a href="/blog/">Blog</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+                        </div>
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <div class="container" style="max-width: 1000px;padding-bottom: 40px;">
+                            <div class="row">
+                                <div class="col-md-12 itemFullText">
+                                    
+<style>
+    .adFixW iframe{
+        width:100%;
+    }
+</style>
+
+<div class="bcNav">
+    <a href="/" title="Ebook library B-OK.org">Main</a> <i></i>
+        The Mysterious Affair at Styles</div>
+
+<div class="cBox1">Something went wrong. Please try again</div>
+<div itemscope itemtype="http://schema.org/Book">
+    <div class="row cardBooks" style="overflow: hidden;">
+        <div class="col-sm-3">
+            <a href="https://dl181.zlibcdn.com/covers/books/4b/2d/63/4b2d638bbde76bfa7c64ac8408012aa8.jpg" class="lightbox details-book-cover checkBookDownloaded" data-book_id="1240102" itemprop="image">
+                <img src="https://dl181.zlibcdn.com/covers/books/4b/2d/63/4b2d638bbde76bfa7c64ac8408012aa8.jpg" alt="Book cover The Mysterious Affair at Styles" />
+            </a>
+        </div>
+
+        <div class="col-sm-9">
+            <h1 itemprop="name" style="color: #000; line-height: 140%;" class="moderatorPanelToggler">
+                The Mysterious Affair at Styles            </h1>
+
+            <i><a  itemprop="author" class="color1" title="Find all the author's book" href="/g/Agatha Christie">Agatha Christie</a></i>
+
+                            <div style="padding:10px 0; font-size:10pt" id="bookDescriptionBox"  itemprop="reviewBody">
+                    <span>Who poisoned the wealthy Emily Inglethorpe, and how did the murderer penetrate and escape from her locked bedroom? Suspects abound in the quaint village of Styles St. Mary--from the heiress's fawning new husband to her two stepsons, her volatile housekeeper, and a pretty nurse who works in a hospital dispensary. Making his unforgettable debut, the brilliant Belgian detective Hercule Poirot is on the case. The key to the success of this style of detective novel, writes Elizabeth George in her Introduction, lies in how the author deals with both the clues and the red herrings, and it has to be said that no one bettered Agatha Christie at this game.</span>                </div>
+            
+            <div style="overflow: hidden; zoom: 1; margin-top: 30px;">
+                <div class="bookDetailsBox">
+                <div class="bookProperty property_volume">
+                    <div class="property_label">Volume:</div>
+                    <div class="property_value">#1</div>
+                </div>
+                <div class="bookProperty property_year">
+                    <div class="property_label">Year:</div>
+                    <div class="property_value">1920</div>
+                </div>
+                <div class="bookProperty property_publisher">
+                    <div class="property_label">Publisher:</div>
+                    <div class="property_value">HarperCollins</div>
+                </div>
+                <div class="bookProperty property_language">
+                    <div class="property_label">Language:</div>
+                    <div class="property_value">english</div>
+                </div>
+                <div class="bookProperty property_pages">
+                    <div class="property_label">Pages:</div>
+                    <div class="property_value"><span title="Pages paperback">121</span></div>
+                </div>
+                <div class="bookProperty property_isbn 10">
+                    <div class="property_label">ISBN 10:</div>
+                    <div class="property_value">0646418432</div>
+                </div>
+                <div class="bookProperty property_isbn 13">
+                    <div class="property_label">ISBN 13:</div>
+                    <div class="property_value">9780646418438</div>
+                </div>
+                <div class="bookProperty property_series">
+                    <div class="property_label">Series:</div>
+                    <div class="property_value">Hercule Poirot </div>
+                </div>
+                <div class="bookProperty property__file">
+                    <div class="property_label">File:</div>
+                    <div class="property_value">EPUB, 702 KB</div>
+                </div></div>            </div>
+        </div>
+    </div>
+
+    <div style="margin-top: 30px; margin-bottom: 15px;">
+        <div class="details-buttons-container pull-left">
+            <div class="book-details-button">
+                
+                <div class="btn-group">
+                
+            <a class="btn btn-primary dlButton addDownloadedBook" href="/dl/1240102/8b6c2d" target="" data-book_id="1240102" rel="nofollow">
+                <span class="glyphicon glyphicon-download-alt" aria-hidden="true"></span>
+                Download  (epub, 702 KB)
+            </a>
+        
+                    <button id="btnCheckOtherFormats"
+                        type="button"
+                        data-toggle="dropdown"
+                        class="btn btn-primary dropdown-toggle"
+                        data-check-formats="0"
+                        data-convertation-available="1"
+                    >
+                        <span class="caret"></span>
+                        <span class="sr-only">Toggle Dropdown</span>
+                    </button>
+                    <ul class="dropdown-menu">
+                        
+                        <li id="bookOtherFormatsContainer">
+                            <span class="dropdown-menu-muted" style="padding: 5px 19px 0; white-space: nowrap;">
+                                Checking other formats...
+                                <span id="bookOtherFormatsSpinnerContainer"></span>
+                            </span>
+                        </li>
+                        
+                <li role="separator" class="divider"></li>
+                <li><a href="javascript:void(0);" class="converterLink" data-book-id="1240102" data-convert-to="fb2">Convert to FB2</a></li><li><a href="javascript:void(0);" class="converterLink" data-book-id="1240102" data-convert-to="pdf">Convert to PDF</a></li><li><a href="javascript:void(0);" class="converterLink" data-book-id="1240102" data-convert-to="mobi">Convert to MOBI</a></li><li><a href="javascript:void(0);" class="converterLink" data-book-id="1240102" data-convert-to="txt">Convert to TXT</a></li><li><a href="javascript:void(0);" class="converterLink" data-book-id="1240102" data-convert-to="rtf">Convert to RTF</a></li>
+                <li role="separator" class="divider"></li>
+                <li><span class="dropdown-menu-muted">Converted file can differ from the original. If possible, download the file in its original format.</span></li>
+            
+                    </ul>
+                </div>            </div>
+
+                        
+                        <div class="book-details-button">
+                <div class="btn-group" id="sendToEmailButtonBox">
+                    <button type="button" class="btn btn-default dropdown-toggle send-to-email-button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                        Send-to-Kindle or Email <span class="caret"></span>
+                    </button>
+                    <ul class="dropdown-menu">
+                        <li><a href="http://singlelogin.org?from=b-ok.cc" target="blank">Please login to your account first</a></li>                        <li role="separator" class="divider"></li>
+                        <li>
+                            <div class="dropdown-menu-muted">
+                                Need help? Please read our short guide
+                                <a href="/info/howtokindle.php" target="_blank" style="text-decoration: underline;">how to send a book to Kindle</a>.
+                            <div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+            
+            <div class="book-details-button">
+                            <button type="button"
+                        class="btn btn-default btn-savebook-disabled"
+                        data-placement="top"
+                        title="Using this feature you can save and organize your favourite books. But before you need to <br><a href='http://singlelogin.org?from=b-ok.cc'>log in</a> or <a href='//singlelogin.org/registration.php'>create an account</a>"
+                        >Save for later</button>
+                        </div>
+
+            
+                </div>
+        <div class="pull-right">
+                </div>
+        <div style="clear: both;"></div>
+    </div>
+
+    <div class="cBox1" id="sentToEmailInfo" style="display:none;">
+        The file will be sent to your email address. It may take up to 1-5 minutes before you receive it.
+    </div>
+
+    <div class="cBox1" id="sentToEmailInfoKindle" style="display:none;">
+        The file will be sent to your Kindle account. It may takes up to 1-5 minutes before you received it.
+        <br/>Please note you need to add our email <b>km@bookmail.org</b> to approved e-mail addresses.
+        <a target="blank" href="https://www.amazon.com/gp/help/customer/display.html/?ie=UTF8&amp;nodeId=201974240">Read more</a>.
+    </div>
+
+    
+    
+    <div id="converterCurrentStatusesBoxContainer" class="cBox1" style="display:none; position: relative; padding-left: 28px;">
+        <div id="converterCurrentStatusesBox"></div>
+    </div>
+
+            <div id="converterStatusBox" class="cBox1" style="display:none"></div>
+    </div>
+
+<div class="modal fade modal-fullscreen-md-down" id="form-modal" tabindex="-1" role="dialog">
+    <div class="modal-dialog" style="width: 1100px;">
+        <div class="modal-content" id="form-modal-content"></div>
+    </div>
+</div>
+
+<script type="text/javascript">
+            const availableTags = [];
+            const CurrentBook = new Book({"id":"1240102","title":"The Mysterious Affair at Styles"})
+            const tags = new TagsInput($('#inputTags'), CurrentUser, CurrentBook.id, availableTags)
+
+            
+            $(function () {
+                $('#btnCheckOtherFormats').click(function() {
+                    if (CurrentBook.otherFormatsLoaded) {
+                        return
+                    }
+
+                    CurrentBook.checkOtherFormats()
+                    CurrentBook.otherFormatsLoaded = true
+                })
+
+                if ($('#btnCheckOtherFormats').data('check-formats') == 1) {
+                    const spinner = new ZLibrarySpinner('btnCheckOtherFormats')
+                        .length(3)
+                        .radius(2)
+                        .width(2)
+                        .start()
+                    CurrentBook.checkOtherFormats().then(() => spinner.stop())
+                    CurrentBook.otherFormatsLoaded = true
+                }
+
+                $('a.lightbox').lightBox({
+                    containerResizeSpeed: 1
+                });
+
+                // read more
+                var height = 300;
+                if ($('.termsCloud').height() > 0)
+                {
+                    height = height - $('.termsCloud').height();
+                }
+
+                if (height < 225) {
+                    height = 225; // min height
+                }
+
+                // prevent bad line-brake
+                height = Math.floor(height / parseFloat($('#bookDescriptionBox').css('line-height'))) * parseFloat($('#bookDescriptionBox').css('line-height')) + 10; //10 - padding-bottom of box
+
+                if ($('#bookDescriptionBox').height() > height)
+                {
+                    $('#bookDescriptionBox').css('overflow', 'hidden');
+                    $('#bookDescriptionBox').css('height', height);
+                    $('<div style="text-align:center; cursor:pointer;font-size: 12px; height:25px;" class="moreBtn"><div style="display:inline-block;border-top: 1px dashed #333; width:75%; margin-top: 15px;"><span style="display:inline-block;position:relative;top:-13px;padding:0 30px; background: #F6F6F6;">click to read more</span></div></div>').insertAfter("#bookDescriptionBox");
+                }
+
+                $('.moreBtn, #bookDescriptionBox').click(function () {
+                    $('#bookDescriptionBox').css('height', 'auto');
+                    $('#bookDescriptionBox').css('overflow', 'auto');
+                    $('.moreBtn').remove();
+                });
+
+                $('#btnSaveBook').click(function () {
+                    const siteMode = "book";
+
+                    CurrentUser
+                        .saveReadLater(CurrentBook.id)
+                        .then(response => {
+                            $('#btnSaveBook').addClass('hidden')
+                            $('#btnUnsaveBook').removeClass('hidden')
+                            ZLibraryNotify({url: '/users/saved_books.php'})
+                                .info('This ' + siteMode + ' was saved in your profile. Click here to see all saved ' + siteMode + 's')
+                        })
+                })
+
+                $('#btnUnsaveBook').click(function () {
+                    CurrentUser
+                        .deleteReadLater(CurrentBook.id)
+                        .then(response => {
+                            $('#btnSaveBook').removeClass('hidden')
+                            $('#btnUnsaveBook').addClass('hidden')
+                            tags.clear()
+                        })
+                })
+            });
+
+            // converter links
+            $('.converterLink').click(function (e) {
+                $('#converterCurrentStatusesBoxContainer').show();
+                $('#converterCurrentStatusesBox').html('Conversion is in progress. The link to download will appear here.<br/>');
+
+                $('#converterCurrentStatusesBoxContainer').css('padding-left', '28px');
+                const spinner = new ZLibrarySpinner('converterCurrentStatusesBoxContainer', 'button')
+                spinner.start()
+
+                $.RPC('ConvertationTools::rpcConvert', {'book_id': $(this).data('book-id'), 'convertTo': $(this).data('convert-to')}).done(function (e) {
+                    convertationStatusesAutoupdaterObserver(spinner);
+                }).fail(function (a, b) {
+                    $('#converterCurrentStatusesBox').html('<span class="error">' + b.errors.message() + '</span>');
+                    $('#converterCurrentStatusesBoxContainer').css('padding-left', '10px');
+                    spinner.stop()
+                });
+            });
+
+            $('.sendToEmailButton').click(function () {
+                $.RPC('sendToKindle', {'book_id': $(this).data('book_id'), 'mode': $(this).data('mode')}).done(function (e) {
+                    if (e.response.status) {
+                        //alert('Sent to ' + e.response.email);
+                    }
+                }).fail(function (a, b) {
+                    $('#sentToEmailInfo').html(b.errors.message());
+                    $('#sentToEmailInfoKindle').html(b.errors.message());
+                });
+
+                if ($(this).data('kindle'))
+                {
+                    $('#sentToEmailInfoKindle').show('slow');
+                } else {
+                    $('#sentToEmailInfo').show('slow');
+                }
+                $('#sendToEmailButtonBox').hide('slow');
+            });
+
+            $(document).on("click", ".sendToEmailAfterConversion", function () {
+                $.RPC('sendToKindle', {'book_id': $(this).data('book_id'), 'mode': 'kindle', 'convertedTo': $(this).data('format')})
+                        .done(function (e) {
+                        })
+                        .fail(function (a, b) {
+                            $('#sentToEmailInfo').html(b.errors.message());
+                            $('#sentToEmailInfoKindle').html(b.errors.message());
+                        });
+
+                $('#sentToEmailInfoKindle').show('slow');
+                $(this).replaceWith('[sent to kindle]');
+            });
+
+            //$('[data-toggle="tooltip"]').tooltip({'html': true});
+            $(window).on("load", function () {
+                $('[data-toggle="tooltip"]').tooltip({'html': true});
+                $('[data-autoopen="true"]').tooltip('show');
+                $('.btn-savebook-disabled').tooltip({
+                    'html': true,
+                    'trigger': 'manual',
+                });
+
+                $('.btn-savebook-disabled').mouseover(function () {
+                    $(this).tooltip('show')
+                });
+
+                $('.btn-savebook-disabled').click(function () {
+                    $(this).tooltip('hide')
+                });
+            });
+
+            var convertationStatusesAutoupdaterRuned = false;
+            function convertationStatusesAutoupdaterObserver(spinner)
+            {
+                if (convertationStatusesAutoupdaterRuned)
+                {
+                    return;
+                } else {
+                    convertationStatusesAutoupdaterRuned = true;
+                    convertationStatusesAutoupdater(spinner);
+                }
+            }
+
+            function convertationStatusesAutoupdater(spinner)
+            {
+                rpcUrl = '/rpc/ConvertationTools::getCurrentJobsStatuses?clear=1&gg_text_mode=1&bookId=' + CurrentBook.id;
+                $.ajaxSetup({cache: false}); // This part addresses an IE bug.  without it, IE will only load the first number and will never refresh
+
+
+                $.ajax({
+                    url: rpcUrl,
+                    datatype: 'html'
+                }).done(function (response) {
+                    $('#converterCurrentStatusesBox').html(response);
+                    if (response.search('progress') === -1)
+                    {
+                        if (spinner) {
+                            spinner.stop()
+                            $('#converterCurrentStatusesBoxContainer').css('padding-left', '10px');
+                        }
+                        convertationStatusesAutoupdaterRuned = false;
+                        return;
+                    }
+                    setTimeout(() => convertationStatusesAutoupdater(spinner), 15000);
+                }).error(function () {
+                    setTimeout(() => convertationStatusesAutoupdater(spinner), 15000);
+                });
+            }
+
+            if ($('#converterCurrentStatusesBox').html().length)
+            {
+                $('#converterCurrentStatusesBoxContainer').css('padding-left', '28px');
+                const spinner = new ZLibrarySpinner('converterCurrentStatusesBoxContainer', 'button')
+                spinner.start()
+
+                convertationStatusesAutoupdaterObserver(spinner);
+                $('#converterCurrentStatusesBoxContainer').show();
+            }
+
+            function iOSversion()
+            {
+                if (/iP(hone|od|ad)/.test(navigator.userAgent)) {
+                    const v = (navigator.appVersion).match(/OS (\d+)_(\d+)_?(\d+)?/)
+                    return [parseInt(v[1], 10), parseInt(v[2], 10), parseInt(v[3] || 0, 10)]
+                }
+
+                return [];
+            }
+
+            if (iOSversion()[0] >= 13 && navigator.userAgent.match(/(iPod|iPhone|iPad)/) && navigator.userAgent.match(/AppleWebKit/)) {
+                // preload hint image
+                setTimeout(function() {
+                    new Image().src = "/img/safary-download-hint.png";
+                }, 2000);
+
+                $('.dlButton').click(function() {
+                    currentDomain = location.hostname.split('.').reverse()[1] + '.' + location.hostname.split('.').reverse()[0]
+
+                    document.cookie = "ios_download_tooltip=1; expires=Tue, 19 Jan 2038 03:14:07 GMT; domain=." + currentDomain + "; path=/"
+                    const iosNotify = $.notify('message', {
+                        template: '<div data-notify="container" class="col-xs-12 col-sm-3 alert" style="background: #fff; border: 1px solid #999;">' +
+                            '<span data-notify="message">' +
+                                '<img src="/img/safary-download-hint.png" style="width: 100%; margin-bottom: 8px;">' +
+                                'Hint for Safari iOS 13 users: all your downloads are hidden under the arrow icon to the right of the browser address bar.<br>' +
+                                '<div class="text-right"><a href="javascript://" id="btnIosNotifyClose" style="color: #337ab7;">Hide</a></div>' +
+                            '</span>' +
+                        '</div>',
+                        offset: 0,
+                        delay: 4000,
+                    })
+
+                    $('#btnIosNotifyClose').click(function() {
+                        document.cookie = 'ios_download_tooltip=10; expires=Tue, 19 Jan 2038 03:14:07 GMT; domain=.' + currentDomain + '; path=/'
+                        iosNotify.close()
+                    })
+                })
+            }
+
+            $(document).on('click', '.addDownloadedBook', function() {
+                CurrentUser.addDownloadedBook($(this).data('book_id'))
+            })
+</script>
+
+<h2 class="color1" style="margin-top:20px;">You may be interested in</h2>
+<div style="background: #49AFD0; height:2px; width: 100%; margin-bottom: 20px;">&nbsp;</div>
+<div id="bMosaicBox" style="display:none">
+        <div class="brick checkBookDownloaded" data-book_id="827201" style="width:14%;">
+            <a href="/book/827201/5bd305?dsource=recommend" title="Murder on the Orient Express: A Hercule Poirot Mystery">
+                <img src="https://dl181.zlibcdn.com/covers200/books/84/95/9f/84959f8604b07c439a9473a6e645668a.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="836358" style="width:14%;">
+            <a href="/book/836358/dedabd?dsource=recommend" title="The Mystery of the Blue Train">
+                <img src="https://dl181.zlibcdn.com/covers200/books/79/e6/c5/79e6c529f6962f81ac46eb66fbece715.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="873198" style="width:14%;">
+            <a href="/book/873198/118deb?dsource=recommend" title="The Murder on the Links">
+                <img src="https://dl181.zlibcdn.com/covers200/books/f5/0f/72/f50f7207edc62970a8b8df5ffa7774c0.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="877382" style="width:14%;">
+            <a href="/book/877382/665868?dsource=recommend" title="The Book Thief">
+                <img src="https://dl181.zlibcdn.com/covers200/books/f0/93/ec/f093ec3729fc52226ada73bee1f384b9.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="903194" style="width:14%;">
+            <a href="/book/903194/b93876?dsource=recommend" title="Curtain: Poirot's Last Case">
+                <img src="https://dl181.zlibcdn.com/covers200/books/d0/6a/2d/d06a2d32953c4def181fd832ededf78a.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="924678" style="width:14%;">
+            <a href="/book/924678/a12899?dsource=recommend" title="Death on the Nile">
+                <img src="https://dl181.zlibcdn.com/covers200/books/b6/64/9e/b6649e537794b130262f1d3df7e20489.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="927118" style="width:14%;">
+            <a href="/book/927118/78ea95?dsource=recommend" title="The Big Four">
+                <img src="https://dl181.zlibcdn.com/covers200/books/b3/a8/a5/b3a8a58de03cfd58702b0f88413ae33c.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="946852" style="width:14%;">
+            <a href="/book/946852/ba2d6f?dsource=recommend" title="The Body in the Library ">
+                <img src="https://dl181.zlibcdn.com/covers200/books/9b/d8/92/9bd892f064e04a2268b2af9d32c5a301.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="950161" style="width:14%;">
+            <a href="/book/950161/0645ab?dsource=recommend" title="Lord Edgware Dies: A Hercule Poirot Mystery (aka Thirteen at Dinner)">
+                <img src="https://dl181.zlibcdn.com/covers200/books/97/fb/e2/97fbe2d215bbd899c02450a67508fcb3.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="956735" style="width:14%;">
+            <a href="/book/956735/a4bb47?dsource=recommend" title="Peril at End House: A Hercule Poirot Mystery">
+                <img src="https://dl181.zlibcdn.com/covers200/books/8f/9b/4f/8f9b4f59d344d1db38cd5fcb1c97930e.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="1011863" style="width:14%;">
+            <a href="/book/1011863/44acdf?dsource=recommend" title="The Seven Dials Mystery (Agatha Christie Mysteries)">
+                <img src="https://dl181.zlibcdn.com/covers200/books/54/cd/c8/54cdc8a7d6d58346482cb7fd824d58f2.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="1130286" style="width:14%;">
+            <a href="/book/1130286/c4d476?dsource=recommend" title="Evil under the Sun ">
+                <img src="https://dl181.zlibcdn.com/covers200/books/9a/0a/7e/9a0a7edaf883eeb4ce7ffb2981d5e20d.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="1178897" style="width:14%;">
+            <a href="/book/1178897/6b2332?dsource=recommend" title="The Murder on the Links  ">
+                <img src="https://dl181.zlibcdn.com/covers200/books/49/1c/62/491c6209d7fb3a62f7d2b0e94ba704e1.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="1189762" style="width:14%;">
+            <a href="/book/1189762/957979?dsource=recommend" title="And Then There Were None  ">
+                <img src="https://dl181.zlibcdn.com/covers200/books/74/e1/8b/74e18bffb77fd261e623512ed17621fc.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="1197468" style="width:14%;">
+            <a href="/book/1197468/4ae73a?dsource=recommend" title="Miss Marple and Mystery: The Complete Short Stories  ">
+                <img src="https://dl181.zlibcdn.com/covers200/books/94/d5/8d/94d58d04458b125fa5443be2e7f10c6a.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="1207466" style="width:14%;">
+            <a href="/book/1207466/07d1cb?dsource=recommend" title="The Moving Finger  ">
+                <img src="https://dl181.zlibcdn.com/covers200/books/bc/ea/74/bcea74efccb61325a39de317ffa6ec8f.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="1237026" style="width:14%;">
+            <a href="/book/1237026/0285d7?dsource=recommend" title="A Murder Is Announced">
+                <img src="https://dl181.zlibcdn.com/covers200/books/e0/d2/87/e0d287f1e4b98512b84680600ecdc3e1.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="1241946" style="width:14%;">
+            <a href="/book/1241946/176eb8?dsource=recommend" title="The Murder of Roger Ackroyd">
+                <img src="https://dl181.zlibcdn.com/covers200/books/00/c8/46/00c84600c78a0b4f582747a9b6dbc699.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="1267973" style="width:14%;">
+            <a href="/book/1267973/f5cfae?dsource=recommend" title="The Hollow: A Hercule Poirot Mystery (Agatha Christie Collection)">
+                <img src="https://dl181.zlibcdn.com/covers200/books/32/4f/d9/324fd9dfc7df8b85cb0da819c9311e39.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="1280413" style="width:14%;">
+            <a href="/book/1280413/d4754c?dsource=recommend" title="The ABC Murders">
+                <img src="https://dl181.zlibcdn.com/covers200/books/df/bf/03/dfbf03cb54fd9a66c88965b235206d0d.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="1438631" style="width:14%;">
+            <a href="/book/1438631/5c25d9?dsource=recommend" title="And Then There Were None">
+                <img src="https://dl181.zlibcdn.com/covers200/books/c6/e0/46/c6e046785b40452af8b1f2b961f7b06e.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="1721380" style="width:14%;">
+            <a href="/book/1721380/a51cc3?dsource=recommend" title="Murder on the Orient Express (Murder in the Calais Coach)">
+                <img src="https://dl181.zlibcdn.com/covers200/books/b4/03/39/b4033940abac463931f3041fdeb9dc30.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="1721387" style="width:14%;">
+            <a href="/book/1721387/f8cdb2?dsource=recommend" title="Three Act Tragedy (Murder in Three Acts)">
+                <img src="https://dl181.zlibcdn.com/covers200/books/87/f2/34/87f23499cba1d3efafda574939ace54f.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="1721395" style="width:14%;">
+            <a href="/book/1721395/0b405f?dsource=recommend" title="Death on the Nile">
+                <img src="https://dl181.zlibcdn.com/covers200/books/95/5e/00/955e00aba327e270364c6c543878cac3.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="1995891" style="width:14%;">
+            <a href="/book/1995891/3639b4?dsource=recommend" title="Crooked House">
+                <img src="https://dl181.zlibcdn.com/covers200/books/25/17/9e/25179e104406e1d376fcf572a5528d3c.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="3846706" style="width:14%;">
+            <a href="/book/3846706/b8e07a?dsource=recommend" title="The Complete Miss Marple Collection">
+                <img src="https://dl181.zlibcdn.com/covers200/books/bf/2f/07/bf2f07847a96e4d8cb8952ffb1089728.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="4069051" style="width:14%;">
+            <a href="/book/4069051/74db76?dsource=recommend" title="Endless Night">
+                <img src="https://dl181.zlibcdn.com/covers200/books/f3/5e/b0/f35eb0a2955d72ebd609c8bb7c07a23d.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div>
+        <div class="brick checkBookDownloaded" data-book_id="4207566" style="width:14%;">
+            <a href="/book/4207566/972ae8?dsource=recommend" title="The Monogram Murders">
+                <img src="https://dl181.zlibcdn.com/covers200/books/b5/1f/3b/b51f3b201d09610bcb1c1d7fa14571d1.jpg" class="bMosaicCover bgrid-item item" width="100%"/>
+            </a>
+        </div></div>    <script type="text/javascript" src="/resources/ext/freewall.js"></script>
+<script>
+    $(function () {
+        $('#bMosaicBox').css('display', 'block');
+
+        var wall = new Freewall('#bMosaicBox');
+        wall.reset({
+            selector: '.brick',
+            keepOrder: true,
+            //animate: true,
+            cellW: $($('.brick')[0]).outerWidth(),
+            cellH: 'auto',
+            gutterX: 8,
+            gutterY: 8,
+            fixSize: false,
+            onResize: function () {
+                wall.fitWidth();
+            }
+        });
+
+        wall.container.find('img').load(function () {
+            wall.fitWidth();
+        });
+
+        wall.fitWidth();
+    });
+</script>
+<div style="background: #49AFD0; height:2px; width: 100%; margin:40px 0 40px 0;">&nbsp;</div>
+
+
+<div id="jscommentsRootBox">
+    <div class="jscommentsFormBox">
+        <div style="width:65%; float:left;">
+            <form id="jscommentsForm" target="uploader" action="rpc.php" method="POST">
+                <input type="hidden" name="book_id" value="1240102">
+                <input type="hidden" name="action" value="addReview">
+                <input type="hidden" name="rx" value="0">
+                <input id="jscommentsNamefield" name="name" type="textfield" placeholder="Your Name" value="" onchange="if (this.value) {
+                            $(this).removeClass('error');
+                        }"/>
+                <textarea id="jscommentsTextarea" name="text" placeholder="Write a Review"  onchange="if (this.value) {
+                            $(this).removeClass('error');}"></textarea>
+                <br clear="all" />
+                <a href="#" id="jscommentsButton" onclick="onReviewSubmit(); return false;" style="position: relative;">
+                    Post a Review
+                </a>
+            </form>
+        </div>
+        <div style="width:35%; float:left;" class="jscommentsFormHelp">
+            <div style="padding:10px 0 0 20px;  border-left:1px solid #ccc;">
+                You can write a book review and share your experiences. Other readers will always be interested in your opinion of the books you've read. Whether you've loved the book or not, if you give your honest and detailed thoughts then people will find new books that are right for them.
+            </div>
+        </div>
+    </div>
+    <div id="jscommentsCommentsBox"></div>
+</div>
+
+<script>
+    $('#jscommentsForm')[0].rx.value = 12;
+    const postCommentSpinner = new ZLibrarySpinner($('#jscommentsButton'));
+
+    function onReviewSubmit()
+    {
+        $('#jscommentsForm')[0].submit();
+        $('#jscommentsButton').data('originaltxt', $('#jscommentsButton')[0].innerHTML);
+        $('#jscommentsNamefield').attr("disabled", "disabled");
+        $('#jscommentsTextarea').attr("disabled", "disabled");
+        postCommentSpinner.start()
+    }
+
+    function onReviewSubmitFailure()
+    {
+        $('#jscommentsButton').text($('#jscommentsButton').data('originaltxt'));
+        $('#jscommentsNamefield').removeAttr("disabled");
+        $('#jscommentsTextarea').removeAttr("disabled");
+        postCommentSpinner.stop();
+    }
+</script><div style="display: none;">
+<div id="searchResultBox"><div class="devider"></div><div class="resItemBox resItemBoxBooks exactMatch" data-book_id="1240103" itemscope itemtype="http://schema.org/Book">
+    <div>
+        <div class="counter">1</div>
+        <table style="width:100%; height:100%;" class="resItemTable">
+            <tr>
+                <td class="itemCover">
+                    <div class="checkBookDownloaded itemCoverWrapper" data-book_id="1240103">
+                        <a href="/book/1240103/6bbe1f"><img class="cover lazy" alt="" data-src="https://dl181.zlibcdn.com/covers100/books/d8/c1/62/d8c162c1acbeecf196494d9d7b1de5e9.jpg" data-srcset="https://dl181.zlibcdn.com/covers100/books/d8/c1/62/d8c162c1acbeecf196494d9d7b1de5e9.jpg 1x, https://dl181.zlibcdn.com/covers200/books/d8/c1/62/d8c162c1acbeecf196494d9d7b1de5e9.jpg 2x" /></a>
+                    </div>
+                </td>
+                <td style="vertical-align: top;">
+                    <table style="width:100%;height:100%;">
+                        <tr>
+                            <td>
+                                <h3 itemprop="name">
+                                    <a href="/book/1240103/6bbe1f" style="text-decoration: underline;">Programming Scala: Tackle Multi-Core Complexity on the Java Virtual Machine (Pragmatic Programmers)</a>
+                                </h3>
+                                <div title="Publisher" style="color: #333; font-size: 10pt;margin-bottom:10px;"><a href="/s/?q=Pragmatic+Bookshelf">Pragmatic Bookshelf</a></div>
+                                <div class="authors"><a  itemprop="author" class="color1" title="Find all the author's book" href="/g/Venkat Subramaniam">Venkat Subramaniam</a></div>
+                            </td>
+                            
+                        </tr>
+                        <tr>
+                            <td colspan="99" style="vertical-align: bottom;">
+                                <div class="tags-container"></div>
+                                
+                                
+                                <div class="bookDetailsBox">
+                <div class="bookProperty property_year">
+                    <div class="property_label">Year:</div>
+                    <div class="property_value">2009</div>
+                </div>
+                <div class="bookProperty property_language">
+                    <div class="property_label">Language:</div>
+                    <div class="property_value">english</div>
+                </div>
+                <div class="bookProperty property__file">
+                    <div class="property_label">File:</div>
+                    <div class="property_value">PDF, 1.68 MB</div>
+                </div></div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>                
+            </tr>
+        </table>
+    </div>
+</div><div class="devider"></div><div class="resItemBox resItemBoxBooks exactMatch" data-book_id="1240101" itemscope itemtype="http://schema.org/Book">
+    <div>
+        <div class="counter">2</div>
+        <table style="width:100%; height:100%;" class="resItemTable">
+            <tr>
+                <td class="itemCover">
+                    <div class="checkBookDownloaded itemCoverWrapper" data-book_id="1240101">
+                        <a href="/book/1240101/30c03b"><img class="cover lazy" alt="" data-src="https://dl181.zlibcdn.com/covers100/books/78/05/a0/7805a069270276323ba451f7aa76ed41.jpg" data-srcset="https://dl181.zlibcdn.com/covers100/books/78/05/a0/7805a069270276323ba451f7aa76ed41.jpg 1x, https://dl181.zlibcdn.com/covers200/books/78/05/a0/7805a069270276323ba451f7aa76ed41.jpg 2x" /></a>
+                    </div>
+                </td>
+                <td style="vertical-align: top;">
+                    <table style="width:100%;height:100%;">
+                        <tr>
+                            <td>
+                                <h3 itemprop="name">
+                                    <a href="/book/1240101/30c03b" style="text-decoration: underline;">The Professional</a>
+                                </h3>
+                                <div title="Publisher" style="color: #333; font-size: 10pt;margin-bottom:10px;"><a href="/s/?q=Berkley+Books">Berkley Books</a></div>
+                                <div class="authors"><a  itemprop="author" class="color1" title="Find all the author's book" href="/g/Robert B. Parker">Robert B. Parker</a></div>
+                            </td>
+                            
+                        </tr>
+                        <tr>
+                            <td colspan="99" style="vertical-align: bottom;">
+                                <div class="tags-container"></div>
+                                
+                                
+                                <div class="bookDetailsBox">
+                <div class="bookProperty property_year">
+                    <div class="property_label">Year:</div>
+                    <div class="property_value">2009</div>
+                </div>
+                <div class="bookProperty property_language">
+                    <div class="property_label">Language:</div>
+                    <div class="property_value">english</div>
+                </div>
+                <div class="bookProperty property__file">
+                    <div class="property_label">File:</div>
+                    <div class="property_value">EPUB, 208 KB</div>
+                </div></div>
+                            </td>
+                        </tr>
+                    </table>
+                </td>                
+            </tr>
+        </table>
+    </div>
+</div><center></center></div><script>
+    $(function () {
+        $(".lazy").Lazy({
+            effect: "fadeIn",
+            effectTime: 1000,
+            beforeLoad: function(element) {
+                $(element).css({"border-width": "0px"});
+            },
+            afterLoad: function(element) {
+                $(element).css({"border-width": "1px"});
+            }
+        });
+    });
+</script><pre>
+
+
+Chapter 7
+
+Poirot Pays his Debts
+
+
+
+
+As we came out of the Stylites Arms, Poirot drew me aside by a gentle pressure of the arm. I understood his object. He was waiting for the Scotland Yard men.
+
+In a few moments, they emerged, and Poirot at once stepped forward, and accosted the shorter of the two.
+
+‘I fear you do not remember me, Inspector Japp.’
+
+‘Why, if it isn’t Mr Poirot!’ cried the Inspector. He turned to the other man. ‘You’ve heard me speak of Mr Poirot? It was in 1904 he and I worked together—the Abercrombie forgery case—you remember, he was run down in Brussels. Ah, those were great days, Moosier. Then, do you remember “Baron” Altara? There was a pretty rogue for you! He eluded the clutches of half the police in Europe. But we nailed him in Antwerp—thanks to Mr Poirot here.’
+
+As these friendly reminiscences were being indulged in, I drew nearer, and was introduced to Detective-Inspector Japp, who in his turn introduced us both to his companion, Superintendent Summerhaye.
+
+‘I need hardly ask what you are doing here, gentlemen,’ remarked Poirot.
+
+Japp closed one eye knowingly.
+
+‘No, indeed. Pretty clear case I should say.’
+
+But Poirot answered gravely:
+
+‘There I differ from you.’
+
+‘Oh, come!’ said Summerhaye, opening his lips for the first time. ‘Surely the whole thing is clear as daylight. The man’s caught red-handed. How he could be such a fool beats me!’
+
+But Japp was looking attentively at Poirot.
+
+‘Hold your fire, Summerhaye,’ he remarked jocularly.
+
+‘Me and Moosier here have met before—and there’s no man’s judgement I’d sooner take than his. If I’m not greatly mistaken, he’s got something up his sleeve. Isn’t that so, Moosier?’
+
+Poirot smiled.
+
+‘I have drawn certain conclusions—yes.’
+
+Summerhaye was still looking rather sceptical, but Japp continued his scrutiny of Poirot.
+
+‘It’s this way,’ he said, ‘so far, we’ve only seen the case from the outside. That’s where the Yard’s at a disadvantage in a case of this kind, where the murder’s only out, so to speak, after the inquest. A lot depends ; on being on the spot first thing, and that’s where Mr Poirot’s had the start of us. We shouldn’t have been here as soon as this even, if it hadn’t been for the fact that there was a smart doctor on the spot, who gave us the tip through the Coroner. But you’ve been on the spot from the first, and you may have picked up some little hints. From the evidence at the inquest, Mr Inglethorp murdered his wife as sure as I stand here, and if anyone but you hinted the contrary I’d laugh in his face. I must say I was surprised the jury didn’t bring it in Wilful Murder against him right off. I think they would have, if it hadn’t been for the Coroner—he seemed to be holding them back.’
+
+‘Perhaps, though, you have a warrant for his arrest in your pocket now,’ suggested Poirot.
+
+A kind of wooden shutter of officialdom came down over Japp’s expressive countenance.
+
+‘Perhaps I have, and perhaps I haven’t,’ he remarked dryly.
+
+Poirot looked at him thoughtfully.
+
+‘I am very anxious, Messieurs, that he should not be arrested.’
+
+‘I dare say,’ observed Summerhaye sarcastically.
+
+Japp was regarding Poirot with comical perplexity.
+
+‘Can’t you go a little further, Mr Poirot? A wink’s as good as a nod—from you. You’ve been on the spot —and the Yard doesn’t want to make any mistakes, you know.’
+
+Poirot nodded gravely.
+
+‘That is exactly what I thought. Well, I will tell you this. Use your warrant: Arrest Mr Inglethorp. But it will bring you no kudos—the case against him will be dismissed at once!Comme c¸a!’ And he snapped his fingers expressively.
+
+Japp’s face grew grave, though Summerhaye gave an incredulous snort.
+
+As for me, I was literally dumb with astonishment. I could only conclude that Poirot was mad.
+
+Japp had taken out a handkerchief, and was gently dabbing his brow.
+
+‘I daren’t do it, Mr Poirot. I’d take your word, but there’s others over me who’ll be asking what the devil I mean by it. Can’t you give me a little more to go on?’
+
+Poirot reflected a moment.
+
+‘It can be done,’ he said at last. ‘I admit I do not wish it. It forces my hand. I would have preferred to work in the dark just for the present, but what you say is very just—the word of a Belgian policeman, whose day is past, is not enough! And Alfred Inglethorp must not be arrested. That I have sworn, as my friend Hastings here knows. See, then, my good Japp, you go at once to Styles?’
+
+ 
+‘Well, in about half an hour. We’re seeing the Coroner and the doctor first.’
+
+‘Good. Call for me in passing—the last house in the village. I will go with you. At Styles, Mr Inglethorp will give you, or if he refuses—as is probable—I will give you such proofs that shall satisfy you that the case against him could not possibly be sustained. Is that a bargain?’
+
+‘That’s a bargain,’ said Japp heartily. ‘And, on behalf of the Yard, I’m much obliged to you, though I’m bound to confess I can’t at present see the faintest possible loophole in the evidence, but you always were a marvel! So long, then, Moosier.’
+
+The two detectives strode away, Summerhaye with an incredulous grin on his face.
+
+‘Well, my friend,’ cried Poirot, before I could get in a word, ‘what do you think?Mon dieu! I had some warm moments in that court; I did not figure to myself that the man would be so pig-headed as to refuse to say anything at all. Decidedly, it was the policy of an imbecile.’
+
+‘H’m! There are other explanations besides that of imbecility,’ I remarked. ‘For, if the case against him is true, how could he defend himself except by silence?’
+
+‘Why, in a thousand ingenious ways,’ cried Poirot. ‘See; say that it is I who have committed this murder, I can think of seven most plausible stories! Far more convincing than Mr Inglethorp’s stony denials!’
+
+I could not help laughing.
+
+‘My dear Poirot, I am sure you are capable of thinking of seventy! But, seriously, in spite of what I heard you say to the detectives, you surely cannot still believe in the possibility of Alfred Inglethorp’s innocence?’
+
+‘Why not now as much as before? Nothing has changed.’
+
+‘But the evidence is so conclusive.’
+
+‘Yes, too conclusive.’
+
+We turned in at the gate of Leastways Cottage, and proceeded up the now familiar stairs.
+
+‘Yes, yes, too conclusive,’ continued Poirot, almost to himself. ‘Real evidence is usually vague and unsatisfactory. It has to be examined—sifted. But here the whole thing is cut and dried. No, my friend, this evidence has been very cleverly manufactured—so cleverly that it has defeated its own ends.’
+
+‘How do you make that out?’
+
+‘Because, so long as the evidence against him was vague and intangible, it was very hard to disprove. But, in his anxiety, the criminal has drawn the net so closely that one cut will set Inglethorp free.’
+
+I was silent. And in a minute or two, Poirot continued:
+
+‘Let us look at the matter like this. Here is a man, let us say, who sets out to poison his wife. He has lived by his wits as the saying goes. Presumably, therefore, he has some wits. He is not altogether a fool. Well, how does he set about it? He goes boldly to the village chemist’s and purchases strychnine under his own name, with a trumped-up story about a dog which is bound to be proved absurd. He does not employ the poison that night. No, he waits until he has had a violent quarrel with her, of which the whole household is cognizant, and which naturally directs their suspicions upon him. He prepares no defence—no shadow of an alibi, yet he knows the chemist’s assistant must necessarily come forward with the facts. Bah! Do not ask me to believe that any man could be so idiotic! Only a lunatic, who wished to commit suicide by causing himself to be hanged, would act so!’
+
+‘Still—I do not see –’ I began.
+
+‘Neither do I see. I tell you, mon ami, it puzzles me. Me—Hercule Poirot!’
+
+‘But if you believe him innocent, how do you explain his buying the strychnine?’
+
+‘Very simply. He did not buy it.’
+
+‘But Mace recognized him!’
+
+‘I beg your pardon, he saw a man with a black beard like Mr Inglethorp’s, and wearing glasses like Mr Inglethorp, and dressed in Mr Inglethorp’s rather noticeable clothes. He could not recognize a man whom he had probably only seen in the distance, since, you remember, he himself had only been in the village a fortnight, and Mrs Inglethorp dealt principally with Coot’s in Tadminster.’
+
+‘Then you think –’
+
+‘Mon ami, do you remember the two points I laid stress upon? Leave the first one for the moment, what was the second?’
+
+‘The important fact that Alfred Inglethorp wears peculiar clothes, has a black beard, and uses glasses,’ I quoted.
+
+‘Exactly. Now suppose anyone wished to pass himself off as John or Lawrence Cavendish. Would it be easy?’
+
+‘No,’ I said thoughtfully. ‘Of course an actor –’
+
+But Poirot cut me short ruthlessly.
+
+‘And why would it not be easy? I will tell you, my friend: Because they are both clean-shaven men. To make up successfully as one of these two in broad daylight, it would need an actor of genius, and a certain initial facial resemblance. But in the case of Alfred Inglethorp, all that is changed. His clothes, his beard, the glasses which hide his eyes—those are the salient points about his personal appearance. Now, what is the first instinct of the criminal? To divert suspicion from himself, is it not so? And how can he best do that? By throwing it on someone else. In this instance, there was a man ready to his hand. Everybody was predisposed to believe in Mr Inglethorp’s guilt. It was a foregone conclusion that he would be suspected; but, to make it a sure thing there must be tangible proof—such as the actual buying of the poison, and that, with a man of the peculiar appearance of Mr Inglethorp, was not difficult. Remember, this young Mace had never actually spoken to Mr Inglethorp. How should he doubt that the man in his clothes, with his beard and his glasses, was not Alfred Inglethorp?’
+
+‘It may be so,’ I said, fascinated by Poirot’s eloquence. ‘But, if that was the case, why does he not say where he was at six o’clock on Monday evening?’
+
+‘Ah, why indeed?’ said Poirot, calming down. ‘If he were arrested, he probably would speak, but I do not want it to come to that. I must make him see the gravity of his position. There is, of course, something discreditable behind his silence. If he did not murder his wife, he is, nevertheless, a scoundrel, and has something of his own to conceal, quite apart from the murder.’
+
+‘What can it be?’ I mused, won over to Poirot’s views for the moment, although still retaining a faint conviction that the obvious deduction was the correct one.
+
+‘Can you not guess?’ asked Poirot, smiling.
+
+‘No, can you?’
+
+ 
+‘Oh, yes, I had a little idea some time ago—and it has turned out to be correct.’
+
+‘You never told me,’ I said reproachfully.
+
+Poirot spread out his hands apologetically.
+
+‘Pardon me, mon ami, you were not precisely sympathique.’ He turned to me earnestly. ‘Tell me—you see now that he must not be arrested?’
+
+‘Perhaps,’ I said doubtfully, for I was really indifferent to the fate of Alfred Inglethorp, and thought that a good fright would do him no harm.
+
+Poirot, who was watching me intently, gave a sigh.
+
+‘Come, my friend,’ he said changing the subject, ‘apart from Mr Inglethorp, how did the evidence at the inquest strike you?’
+
+‘Oh, pretty much what I expected.’
+
+‘Did nothing strike you as peculiar about it?’
+
+My thoughts flew to Mary Cavendish, and I hedged:
+
+‘In what way?’
+
+‘Well, Mr Lawrence Cavendish’s evidence for instance?’
+
+I was relieved.
+
+‘Oh, Lawrence! No, I don’t think so. He’s always a nervous chap.’
+
+‘His suggestion that his mother might have been poisoned accidentally by means of the tonic she was taking, that did not strike you as strange –hein?’
+
+‘No, I can’t say it did. The doctors ridiculed it of course. But it was quite a natural suggestion for a layman to make.’
+
+‘But Monsieur Lawrence is not a layman. You told me yourself that he had started by studying medicine, and that he had taken his degree.’
+
+‘Yes, that’s true. I never thought of that.’ I was rather startled. ‘It is odd.’
+
+Poirot nodded.
+
+‘From the first, his behaviour has been peculiar. Of all the household, he alone would be likely to recognize the symptoms of strychnine poisoning, and yet we find him the only member of the family to uphold strenuously the theory of death from natural causes. If it had been Monsieur John, I could have understood it. He has no technical knowledge, and is by nature unimaginative. But Monsieur Lawrence—no! And now, today, he puts forward a suggestion that he himself must have known was ridiculous. There is food for thought in this, mon ami!’
+
+‘It’s very confusing,’ I agreed.
+
+‘Then there is Mrs Cavendish,’ continued Poirot. ‘That is another who is not telling all she knows! What do you make of her attitude?’
+
+‘I don’t know what to make of it. It seems inconceivable that she should be shielding Alfred Inglethorp. Yet that is what it looks like.’
+
+Poirot nodded reflectively.
+
+ 
+‘Yes, it is queer. One thing is certain, she overheard a good deal more of that “private conversation” than she was willing to admit.’
+
+‘And yet she is the last person one would accuse of stooping to eavesdrop!’
+
+‘Exactly. One thing her evidence has shown me. I made a mistake. Dorcas was quite right. The quarrel did take place earlier in the afternoon, about four o’clock, as she said.’
+
+I looked at him curiously. I had never understood his insistence on that point.
+
+‘Yes, a good deal that was peculiar came out today,’ continued Poirot. ‘Dr Bauerstein, now, what was he doing up and dressed at that hour in the morning? It is astonishing to me that no one commented on the fact.’
+
+‘He has insomnia, I believe,’ I said doubtfully.
+
+‘Which is a very good, or a very bad explanation,’ remarked Poirot. ‘It covers everything, and explains nothing. I shall keep my eye on our clever Dr Bauerstein.’
+
+‘Any more faults to find with the evidence?’ I inquired satirically.
+
+‘Mon ami,’ replied Poirot gravely, ‘when you find that people are not telling you the truth—look out! Now, unless I am much mistaken, at this inquest today only one—at most, two persons were speaking the truth without reservation or subterfuge.’
+
+‘Oh, come now, Poirot! I won’t cite Lawrence, or Mrs Cavendish. But there’s John—and Miss Howard, surely they were speaking the truth?’
+
+‘Both of them, my friend? One, I grant you, but both –!’
+
+His words gave me an unpleasant shock. Miss Howard’s evidence, unimportant as it was, had been given in such a downright straightforward manner that it had never occurred to me to doubt her sincerity. Still, I had a great respect for Poirot’s sagacity—except on the occasions when he was what I described to myself as ‘foolishly pig-headed’.
+
+‘Do you really think so?’ I asked. ‘Miss Howard had always seemed to me so essentially honest—almost uncomfortably so.’
+
+Poirot gave me a curious look, which I could not quite fathom. He seemed about to speak, and then checked himself.
+
+‘Miss Murdoch too,’ I continued, ‘there’s nothing untruthful about her.’
+
+‘No. But it was strange that she never heard a sound, sleeping next door; whereas Mrs Cavendish, in the other wing of the building, distinctly heard the table fall.’
+
+‘Well, she’s young. And she sleeps soundly.’
+
+‘Ah, yes, indeed! She must be a famous sleeper, that one!’
+
+I did not quite like the tone of his voice, but at that moment a smart knock reached our ears, and looking out of the window we perceived the two detectives waiting for us below.
+
+Poirot seized his hat, gave a ferocious twist to his moustache, and, carefully brushing an imaginary speck of dust from his sleeve, motioned me to precede him down the stairs; there we joined the detectives and set out for Styles.
+
+I think the appearance of the two Scotland Yard men was rather a shock—especially to John, though, of course, after the verdict, he had realized that it was only a matter of time. Still, the presence of the detectives brought the truth home to him more than anything else could have done.
+
+Poirot had conferred with Japp in a low tone on the way up, and it was the latter functionary who requested that the household, with the exception of the servants, should be assembled together in the drawing-room. I realized the significance of this. It was up to Poirot to make his boast good.
+
+Personally, I was not sanguine. Poirot might have excellent reasons for his belief in Inglethorp’s innocence, but a man of the type of Summerhaye would require tangible proofs, and these I doubted if Poirot could supply.
+
+Before very long we had all trooped into the drawing-room, the door of which Japp closed. Poirot politely set chairs for everyone. The Scotland Yard men were the cynosure of all eyes. I think that for the first time we realized that the thing was not a bad dream, but a tangible reality. We had read of such things—now we ourselves were actors in the drama. Tomorrow the daily papers, all over England, would blazon out the news in staring headlines:
+
+MYSTERIOUS TRAGEDY IN ESSEX
+WEALTHY LADY POISONED
+
+There would be pictures of Styles, snap-shots of ‘The family leaving the Inquest’—the village photographer had not been idle! All the things that one had read a hundred times—things that happen to other people, not to oneself. And now, in this house, a murder had been committed. In front of us were ‘the detectives in charge of the case’. The well-known glib phraseology passed rapidly through my mind in the interval before Poirot opened the proceedings.
+
+I think everyone was a little surprised that it should be he and not one of the official detectives who took the initiative.
+
+‘Mesdames and messieurs,’ said Poirot, bowing as though he were a celebrity about to deliver a lecture, ‘I have asked you to come here all together, for a certain object. That object, it concerns Mr Alfred Inglethorp.’
+
+ 
+Inglethorp was sitting a little by himself—I think, unconsciously, everyone had drawn his chair slightly away from him—and he gave a faint start as Poirot pronounced his name.
+
+‘Mr Inglethorp,’ said Poirot, addressing him directly, ‘a very dark shadow is resting on this house—the shadow of murder.’
+
+Inglethorp shook his head sadly.
+
+‘My poor wife,’ he murmured. ‘Poor Emily! It is terrible.’
+
+‘I do not think, monsieur,’ said Poirot pointedly, ‘that you quite realize how terrible it may be—for you.’ And as Inglethorp did not appear to understand, he added: ‘Mr Inglethorp, you are standing in very grave danger.’
+
+The two detectives fidgeted. I saw the official caution ‘Anything you say will be used in evidence against you,’ actually hovering on Summerhaye’s lips. Poirot went on:
+
+‘Do you understand now, monsieur?’
+
+‘No. What do you mean?’
+
+‘I mean,’ said Poirot deliberately, ‘that you are suspected of poisoning your wife.’
+
+A little gasp ran round the circle at this plain speaking.
+
+‘Good heavens!’ cried Inglethorp, starting up. ‘What a monstrous idea! I—poison my dearest Emily!’
+
+ 
+‘I do not think’—Poirot watched him narrowly—‘that you quite realize the unfavourable nature of your evidence at the inquest. Mr Inglethorp, knowing what I have now told you, do you still refuse to say where you were at six o’clock on Monday afternoon?’
+
+With a groan, Alfred Inglethorp sank down again and buried his face in his hands. Poirot approached and stood over him.
+
+‘Speak!’ he cried menacingly.
+
+With an effort, Inglethorp raised his face from his hands. Then, slowly and deliberately, he shook his head.
+
+‘You will not speak?’
+
+‘No. I do not believe that anyone could be so monstrous as to accuse me of what you say.’
+
+Poirot nodded thoughtfully, like a man whose mind is made. ‘Soit!’ he said. ‘Then I must speak for you.’
+
+Alfred Inglethorp sprang up again.
+
+‘You? How can you speak? You do not know –’ he broke off abruptly.
+
+Poirot turned to face us. ‘Mesdames and messieurs! I speak!Listen!I, Hercule Poirot, affirm that the man who entered the chemist’s shop, and purchased strychnine at six o’clock on Monday last, was not Mr Inglethorp, for at six o’clock on that day Mr Inglethorp was escorting Mrs Raikes back to her home from a neighbouring farm. I can produce no less than five witnesses to swear to having seen them together, either at six or just after and, as you may know, the Abbey Farm, Mrs Raikes’s home, is at least two and a half miles distant from the village. There is absolutely no question as to the alibi!’
+
+ 
+
+
+
+
+
+
+
+
+Chapter 2
+
+The 16th and 17th of July
+
+
+
+
+I had arrived at Styles on the 5th of July. I come now to the events of the 16th and 17th of that month. For the convenience of the reader I will recapitulate the incidents of those days in as exact a manner as possible. They were elicited subsequently at the trial by a process of long and tedious cross-examinations.
+
+I received a letter from Evelyn Howard a couple of days after her departure, telling me she was working as a nurse at the big hospital in Middlingham, a manufacturing town some fifteen miles away, and begging me to let her know if Mrs Inglethorp should show any wish to be reconciled.
+
+The only fly in the ointment of my peaceful days was Mrs Cavendish’s extraordinary and, for my part, unaccountable preference for the society of Dr Bauerstein. What she saw in the man I cannot imagine, but she was always asking him up to the house, and often went off for long expeditions with him. I confess that I was quite unable to see his attraction.
+
+The 16th of July fell on a Monday. It was a day of turmoil. The famous bazaar had taken place on Saturday, and an entertainment, in connection with the same charity, at which Mrs Inglethorp was to recite a War poem, was to be held that night. We were all busy during the morning arranging and decorating the Hall in the village where it was to take place. We had a late luncheon and spent the afternoon resting in the garden. I noticed that John’s manner was somewhat unusual. He seemed very excited and restless.
+
+After tea, Mrs Inglethorp went to lie down to rest before her efforts in the evening and I challenged Mary Cavendish to a single at tennis.
+
+About a quarter to seven, Mrs Inglethorp called to us that we should be late as supper was early that night. We had rather a scramble to get ready in time; and before the meal was over the motor was waiting at the door.
+
+The entertainment was a great success, Mrs Inglethorp’s recitation receiving tremendous applause. There were also some tableaux in which Cynthia took part. She did not return with us, having been asked to a supper party, and to remain the night with some friends who had been acting with her in the tableaux.
+
+The following morning, Mrs Inglethorp stayed in bed to breakfast, as she was rather over-tired; but she appeared in her briskest mood about 12.30, and swept Lawrence and myself off to a luncheon party.
+
+‘Such a charming invitation from Mrs Rolleston. Lady Tadminster’s sister, you know. The Rollestons came over with the Conqueror—one of our oldest families.’
+
+Mary had excused herself on the plea of an engagement with Dr Bauerstein.
+
+We had a pleasant luncheon, and as we drove away Lawrence suggested that we should return by Tadminster, which was barely a mile out of our way, and pay a visit to Cynthia in her dispensary. Mrs Inglethorp replied that this was an excellent idea, but as she had several letters to write she would drop us there, and we could come back with Cynthia in the pony-trap.
+
+We were detained under suspicion by the hospital porter, until Cynthia appeared to vouch for us, looking very cool and sweet in her long white overall. She took us up to her sanctum, and introduced us to her fellow dispenser, a rather awe-inspiring individual, whom Cynthia cheerily addressed as ‘Nibs’.
+
+‘What a lot of bottles!’ I exclaimed, as my eye travelled round the small room. ‘Do you really know what’s in them all?’
+
+‘Say something original,’ groaned Cynthia. ‘Every single person who comes up here says that. We are really thinking of bestowing a prize on the first individual who does not say: “What a lot of bottles!” And I know the next thing you’re going to say is: “How many people have you poisoned?”’
+
+I pleaded guilty with a laugh.
+
+‘If you people only knew how fatally easy it is to poison someone by mistake, you wouldn’t joke about it. Come on, let’s have tea. We’ve got all sorts of secret stores in that cupboard. No, Lawrence—that’s the poison cupboard. The big cupboard—that’s right.’
+
+We had a very cheery tea, and assisted Cynthia to wash up afterwards. We had just put away the last teaspoon when a knock came at the door. The countenances of Cynthia and Nibs were suddenly petrified into a stern and forbidding expression.
+
+‘Come in,’ said Cynthia, in a sharp professional tone.
+
+A young and rather scared-looking nurse appeared with a bottle which she proffered to Nibs, who waved her towards Cynthia with the somewhat enigmatical remark:
+
+‘I’m not really here today.’
+
+Cynthia took the bottle and examined it with the severity of a judge.
+
+‘This should have been sent up this morning.’
+
+‘Sister is very sorry. She forgot.’
+
+‘Sister should read the rules outside the door.’
+
+ 
+I gathered from the little nurse’s expression that there was not the least likelihood of her having the hardihood to retail this message to the dreaded ‘Sister’.
+
+‘So now it can’t be done until tomorrow,’ finished Cynthia.
+
+‘Don’t you think you could possibly let us have it tonight?’
+
+‘Well,’ said Cynthia graciously, ‘we are very busy, but if we have time it shall be done.’
+
+The little nurse withdrew, and Cynthia promptly took a jar from the shelf, refilled the bottle and placed it on the table outside the door.
+
+I laughed.
+
+‘Discipline must be maintained?’
+
+‘Exactly. Come out on our little balcony. You can see all the outside wards there.’
+
+I followed Cynthia and her friend and they pointed out the different wards to me. Lawrence remained behind, but after a few moments Cynthia called to him over her shoulder to come and join us. Then she looked at her watch.
+
+‘Nothing more to do, Nibs?’
+
+‘No.’
+
+‘All right. Then we can lock up and go.’
+
+I had seen Lawrence in quite a different light that afternoon. Compared to John, he was an astoundingly difficult person to get to know. He was the opposite of his brother in almost every respect, being unusually shy and reserved. Yet he had a certain charm of manner, and I fancied that, if one really knew him well, one could have a deep affection for him. I had always fancied that his manner to Cynthia was rather constrained, and that she on her side was inclined to be shy of him. But they were both gay enough this afternoon, and chatted together like a couple of children.
+
+As we drove through the village, I remembered that I wanted some stamps, so accordingly we pulled up at the post office.
+
+As I came out again, I cannoned into a little man who was just entering. I drew aside and apologized, when suddenly, with a loud exclamation, he clasped me in his arms and kissed me warmly.
+
+‘Mon ami Hastings!’ he cried. ‘It is indeed mon ami Hastings!’
+
+‘Poirot!’ I exclaimed.
+
+I turned to the pony-trap.
+
+‘This is a very pleasant meeting for me, Miss Cynthia. This is my old friend, Monsieur Poirot, whom I have not seen for years.’
+
+‘Oh, we know Monsieur Poirot,’ said Cynthia gaily.
+
+‘But I had no idea he was a friend of yours.’
+
+‘Yes, indeed,’ said Poirot seriously. ‘I know Mademoiselle Cynthia. It is by the charity of that good Mrs Inglethorp that I am here.’ Then, as I looked at him inquiringly: ‘Yes, my friend, she had kindly extended hospitality to seven of my country-people who, alas, are refugees from their native land. We Belgians will always remember her with gratitude.’
+
+Poirot was an extraordinary-looking little man. He was hardly more than five feet four inches, but carried himself with great dignity. His head was exactly the shape of an egg, and he always perched it a little on one side. His moustache was very stiff and military. The neatness of his attire was almost incredible; I believe a speck of dust would have caused him more pain than a bullet wound. Yet this quaint dandified little man who, I was sorry to see, now limped badly, had been in his time one of the most celebrated members of the Belgian police. As a detective, his flair had been extraordinary, and he had achieved triumphs by unravelling some of the most baffling cases of the day.
+
+He pointed out to me the little house inhabited by him and his fellow Belgians, and I promised to go and see him at an early date. Then he raised his hat with a flourish to Cynthia and we drove away.
+
+‘He’s a dear little man,’ said Cynthia. ‘I’d no idea you knew him.’
+
+‘You’ve been entertaining a celebrity unawares,’ I replied.
+
+And, for the rest of the way home, I recited to them the various exploits and triumphs of Hercule Poirot.
+
+ 
+We arrived back in a very cheerful mood. As we entered the hall, Mrs Inglethorp came out of her boudoir. She looked flushed and upset.
+
+‘Oh, it’s you,’ she said.
+
+‘Is there anything the matter, Aunt Emily?’ asked Cynthia.
+
+‘Certainly not,’ said Mrs Inglethorp sharply. ‘What should there be?’ Then catching sight of Dorcas, the parlourmaid, going into the dining-room, she called to her to bring some stamps into the boudoir.
+
+‘Yes, m’m.’ The old servant hesitated, then added diffidently: ‘Don’t you think, m’m, you’d better get to bed? You’re looking very tired.’
+
+‘Perhaps you’re right, Dorcas—yes—no—not now. I’ve some letters I must finish by post-time. Have you lighted the fire in my room as I told you?’
+
+‘Yes, m’m.’
+
+‘Then I’ll go to bed directly after supper.’
+
+She went into her boudoir again, and Cynthia stared after her.
+
+‘Goodness gracious! I wonder what’s up?’ she said to Lawrence.
+
+He did not seem to have heard her, for without a word he turned on his heel and went out of the house.
+
+I suggested a quick game of tennis before supper and, Cynthia agreeing, I ran upstairs to fetch my racquet.
+
+ 
+Mrs Cavendish was coming down the stairs. It may have been my fancy, but she, too, was looking odd and disturbed.
+
+‘Had a good walk with Dr Bauerstein?’ I asked, trying to appear as indifferent as I could.
+
+‘I didn’t go,’ she replied abruptly. ‘Where is Mrs Inglethorp?’
+
+‘In the boudoir.’
+
+Her hand clenched itself on the banisters, then she seemed to nerve herself for some encounter, and went rapidly past me down the stairs across the hall to the boudoir, the door of which she shut behind her.
+
+As I ran out to the tennis court a few moments later, I had to pass the open boudoir window, and was unable to help overhearing the following scrap of dialogue. Mary Cavendish was saying in the voice of a woman desperately controlling herself: ‘Then you won’t show it to me?’
+
+To which Mrs Inglethorp replied:
+
+‘My dear Mary, it has nothing to do with that matter.’
+
+‘Then show it to me.’
+
+‘I tell you it is not what you imagine. It does not concern you in the least.’
+
+To which Mary Cavendish replied, with a rising bitterness: ‘Of course, I might have known you would shield him.’
+
+ 
+Cynthia was waiting for me, and greeted me eagerly with:
+
+‘I say! There’s been the most awful row! I’ve got it all out of Dorcas.’
+
+‘What kind of row?’
+
+‘Between Aunt Emily and him. I do hope she’s found him out at last!’
+
+‘Was Dorcas there, then?’
+
+‘Of course not. She “happened to be near the door”. It was a real old bust-up. I do wish I knew what it was all about.’
+
+I thought of Mrs Raikes’s gipsy face, and Evelyn Howard’s warnings, but wisely decided to hold my peace, whilst Cynthia exhausted every possible hypothesis, and cheerfully hoped, ‘Aunt Emily will send him away, and will never speak to him again.’
+
+I was anxious to get hold of John, but he was nowhere to be seen. Evidently something very momentous had occurred that afternoon. I tried to forget the few words I had overheard; but, do what I would, I could not dismiss them altogether from my mind. What was Mary Cavendish’s concern in the matter?
+
+Mr Inglethorp was in the drawing-room when I came down to supper. His face was impassive as ever, and the strange unreality of the man struck me afresh.
+
+Mrs Inglethorp came down at last. She still looked agitated, and during the meal there was a somewhat constrained silence. Inglethorp was unusually quiet. As a rule, he surrounded his wife with little attentions, placing a cushion at her back, and altogether playing the part of the devoted husband. Immediately after supper, Mrs Inglethorp retired to her boudoir again.
+
+‘Send my coffee in here, Mary,’ she called. ‘I’ve just five minutes to catch the post.’
+
+Cynthia and I went and sat by the open window in the drawing-room. Mary Cavendish brought our coffee to us. She seemed excited.
+
+‘Do you young people want lights, or do you enjoy the twilight?’ she asked. ‘Will you take Mrs Inglethorp her coffee, Cynthia? I will pour it out.’
+
+‘Do not trouble, Mary,’ said Inglethorp. ‘I will take it to Emily.’ He poured it out, and went out of the room carrying it carefully.
+
+Lawrence followed him, and Mrs Cavendish sat down by us.
+
+We three sat for some time in silence. It was a glorious night, hot and still. Mrs Cavendish fanned herself gently with a palm leaf.
+
+‘It’s almost too hot,’ she murmured. ‘We shall have a thunderstorm.’
+
+Alas, that these harmonious moments can never endure! My paradise was rudely shattered by the sound of a well-known, and heartily disliked, voice in the hall.
+
+ 
+‘Dr Bauerstein!’ exclaimed Cynthia. ‘What a funny time to come.’
+
+I glanced jealously at Mary Cavendish, but she seemed quite undisturbed, the delicate pallor of her cheeks did not vary.
+
+In a few moments, Alfred Inglethorp had ushered the doctor in, the latter laughing, and protesting that he was in no fit state for a drawing-room. In truth, he presented a sorry spectacle, being literally plastered with mud.
+
+‘What have you been doing, doctor?’ cried Mrs Cavendish.
+
+‘I must make my apologies,’ said the doctor. ‘I did not really mean to come in, but Mr Inglethorp insisted.’
+
+‘Well, Bauerstein, you are in a plight,’ said John, strolling in from the hall. ‘Have some coffee, and tell us what you have been up to.’
+
+‘Thank you, I will.’ He laughed rather ruefully, as he described how he had discovered a very rare species of fern in an inaccessible place, and in his efforts to obtain it had lost his footing, and slipped ignominiously into a neighbouring pond.
+
+‘The sun soon dried me off,’ he added, ‘but I’m afraid my appearance is very disreputable.’
+
+At this juncture, Mrs Inglethorp called to Cynthia from the hall, and the girl ran out.
+
+‘Just carry up my despatch-case, will you, dear? I’m going to bed.’
+
+ 
+The door into the hall was a wide one. I had risen when Cynthia did, John was close by me. There were, therefore, three witnesses who could swear that Mrs Inglethorp was carrying her coffee, as yet untasted, in her hand. My evening was utterly and entirely spoilt by the presence of Dr Bauerstein. It seemed to me the man would never go. He rose at last, however, and I breathed a sigh of relief.
+
+‘I’ll walk down to the village with you,’ said Mr Inglethorp. ‘I must see our agent over those estate accounts.’ He turned to John. ‘No one need sit up. I will take the latch-key.’
+
+ 
+ 
+
+
+
+
+
+
+
+
+Chapter 13
+
+Poirot Explains
+
+
+
+
+‘Poirot, you old villain,’ I said, ‘I’ve half a mind to strangle you! What do you mean by deceiving me as you have done?’
+
+We were sitting in the library. Several hectic days lay behind us. In the room below, John and Mary were together once more, while Alfred Inglethorp and Miss Howard were in custody. Now at last, I had Poirot to myself, and could relieve my still burning curiosity.
+
+Poirot did not answer me for a moment, but at last he said:
+
+‘I did not deceive you, mon ami. At most, I permitted you to deceive yourself.’
+
+‘Yes, but why?’
+
+‘Well, it is difficult to explain. You see, my friend, you have a nature so honest, and a countenance so transparent, that –enfin, to conceal your feelings is impossible! If I had told you my ideas, the very first time you saw Mr Alfred Inglethorp that astute gentleman would have—in your so expressive idiom—“smelt a rat”! And then, bonjour to our chances of catching him!’
+
+‘I think that I have more diplomacy than you give me credit for.’
+
+‘My friend,’ besought Poirot, ‘I implore you, do not enrage yourself ! Your help has been of the most invaluable. It is but the extremely beautiful nature that you have which made me pause.’
+
+‘Well,’ I grumbled, a little mollified, ‘I still think you might have given me a hint.’
+
+‘But I did, my friend. Several hints. You would not take them. Think now, did I ever say to you that I believed John Cavendish guilty? Did I not, on the contrary, tell you that he would almost certainly be acquitted?’
+
+‘Yes, but –’
+
+‘And did I not immediately afterwards speak of the difficulty of bringing the murderer to justice? Was it not plain to you that I was speaking of two entirely different persons?’
+
+‘No,’ I said, ‘it was not plain to me!’
+
+‘Then again,’ continued Poirot, ‘at the beginning, did I not repeat to you several times that I didn’t want Mr Inglethorp arrested now? That should have conveyed something to you.’
+
+ 
+‘Do you mean to say you suspected him as long ago as that?’
+
+‘Yes. To begin with, whoever else might benefit by Mrs Inglethorp’s death, her husband would benefit the most. There was no getting away from that. When I went up to Styles with you that first day, I had no idea as to how the crime had been committed, but from what I knew of Mr Inglethorp I fancied that it would be very hard to find anything to connect him with it. When I arrived at the cha^teau, I realized at once that it was Mrs Inglethorp who had burnt the will; and there, by the way, you cannot complain, my friend, for I tried my best to force on you the significance of that bedroom fire in midsummer.’
+
+‘Yes, yes,’ I said impatiently. ‘Go on.’
+
+‘Well, my friend, as I say, my views as to Mr Inglethorp’s guilt were very much shaken. There was, in fact, so much evidence against him that I was inclined to believe that he had not done it.’
+
+‘When did you change your mind?’
+
+‘When I found that the more efforts I made to clear him, the more efforts he made to get himself arrested. Then, when I discovered that Inglethorp had nothing to do with Mrs Raikes, and that in fact it was John Cavendish who was interested in that quarter, I was quite sure.’
+
+‘But why?’
+
+ 
+‘Simply this. If it had been Inglethorp who was carrying on an intrigue with Mrs Raikes, his silence was perfectly comprehensible. But, when I discovered that it was known all over the village that it was John who was attracted by the farmer’s pretty wife, his silence bore quite a different interpretation. It was nonsense to pretend that he was afraid of the scandal, as no possible scandal could attach to him. This attitude of his gave me furiously to think, and I was slowly forced to the conclusion that Alfred Inglethorp wanted to be arrested. Eh bien! from that moment, I was equally determined that he should not be arrested.’
+
+‘Wait a moment. I don’t see why he wished to be arrested?’
+
+‘Because, mon ami, it is the law of your country that a man once acquitted can never be tried again for the same offence. Aha! but it was clever—his idea! Assuredly, he is a man of method. See here, he knew that in his position he was bound to be suspected, so he conceived the exceedingly clever idea of preparing a lot of manufactured evidence against himself. He wished to be suspected. He wished to be arrested. He would then produce his irreproachable alibi—and, hey presto, he was safe for life!’
+
+‘But I still don’t see how he managed to prove his alibi, and yet go to the chemist’s shop?’
+
+Poirot stared at me in surprise.
+
+ 
+‘Is it possible? My poor friend! You have not yet realized that it was Miss Howard who went to the chemist’s shop?’
+
+‘Miss Howard?’
+
+‘But, certainly. Who else? It was most easy for her. She is of a good height, her voice is deep and manly; moreover, remember, she and Inglethorp are cousins, and there is a distinct resemblance between them, especially in their gait and bearing. It was simplicity itself. They are a clever pair!’
+
+‘I am still a little fogged as to how exactly the bromide business was done,’ I remarked.
+
+‘Bon! I will reconstruct for you as far as possible. I am inclined to think that Miss Howard was the master mind in that affair. You remember her once mentioning that her father was a doctor? Possibly she dispensed his medicines for him, or she may have taken the idea from one of the many books lying about when Mademoiselle Cynthia was studying for her exam. Anyway, she was familiar with the fact that the addition of a bromide to a mixture containing strychnine would cause the precipitation of the latter. Probably the idea came to her quite suddenly. Mrs Inglethorp had a box of bromide powders, which she occasionally took at night. What could be more easier than quietly to dissolve one or more of those powders in Mrs Inglethorp’s large-sized bottle of medicine when it came from Coot’s? The risk is practically nil. The tragedy will not take place until nearly a fortnight later. If anyone has seen either of them touching the medicine, they will have forgotten it by that time. Miss Howard will have engineered her quarrel, and departed from the house. The lapse of time, and her absence, will defeat all suspicion. Yes, it was a clever idea! If they had left it alone, it is possible the crime might never have been brought home to them. But they were not satisfied. They tried to be too clever—and that was their undoing.’
+
+Poirot puffed at his tiny cigarette, his eyes fixed on the ceiling.
+
+‘They arranged a plan to throw suspicion on John Cavendish, by buying strychnine at the village chemist’s, and signing the register in his handwriting.
+
+‘On Monday Mrs Inglethorp will take the last dose of her medicine. On Monday, therefore, at six o’clock, Alfred Inglethorp arranges to be seen by a number of people at a spot far removed from the village. Miss Howard has previously made up a cock-and-bull story about him and Mrs Raikes to account for his holding his tongue afterwards. At six o’clock, Miss Howard, disguised as Alfred Inglethorp, enters the chemist’s shop, with her story about a dog, obtains the strychnine, and writes the name of Alfred Inglethorp in John’s handwriting, which she had previously studied carefully.
+
+ 
+‘But, as it will never do if John, too, can prove an alibi, she writes him an anonymous note—still copying his handwriting—which takes him to a remote spot where it is exceedingly unlikely that anyone will see him.
+
+‘So far, all goes well. Miss Howard goes back to Middlingham. Alfred Inglethorp returns to Styles. There is nothing that can compromise him in any way, since it is Miss Howard who has the strychnine, which, after all, is only wanted as a blind to throw suspicion on John Cavendish.
+
+‘But now a hitch occurs. Mrs Inglethorp does not take her medicine that night. The broken bell, Cynthia’s absence—arranged by Inglethorp through his wife—all these are wasted. And then—he makes his slip.
+
+‘Mrs Inglethorp is out, and he sits down to write to his accomplice, who, he fears, may be in a panic at the non-success of their plan. It is probable that Mrs Inglethorp returned earlier than he expected. Caught in the act, and somewhat flurried, he hastily shuts and locks his desk. He fears that if he remains in the room he may have to open it again, and that Mrs Inglethorp might catch sight of the letter before he could snatch it up. So he goes out and walks in the woods, little dreaming that Mrs Inglethorp will open his desk, and discover the incriminating document.
+
+‘But this, as we know, is what happened. Mrs Inglethorp reads it, and becomes aware of the perfidy of her husband and Evelyn Howard, though, unfortunately, the sentence about the bromide conveys no warning to her mind. She knows that she is in danger—but is ignorant of where the danger lies. She decides to say nothing to her husband, but sits down and writes to her solicitor, asking him to come on the morrow, and she also determines to destroy immediately the will which she has just made. She keeps the fatal letter.’
+
+‘It was to discover that letter, then, that her husband forced the lock of the despatch-case?’
+
+‘Yes, and from the enormous risk he ran we can see how fully he realized its importance. That letter excepted, there was absolutely nothing to connect him with the crime.’
+
+‘There’s only one thing I can’t make out, why didn’t he destroy it at once when he got hold of it?’
+
+‘Because he did not dare take the biggest risk of all—that of keeping it on his own person.’
+
+‘I don’t understand.’
+
+‘Look at it from his point of view. I have discovered that there were only five short minutes in which he could have taken it—the five minutes immediately before our own arrival on the scene, for before that time Annie was brushing the stairs, and would have seen anyone who passed going to the right wing. Figure to yourself the scene! He enters the room, unlocking the door by means of one of the other door-keys—they were all much alike. He hurries to the despatch-case—it is locked, and the keys are nowhere to be seen. That is a terrible blow to him, for it means that his presence in the room cannot be concealed as he had hoped. But he sees clearly that everything must be risked for the sake of that damning piece of evidence. Quickly, he forces the lock with a penknife, and turns over the papers until he finds what he is looking for.
+
+‘But now a fresh dilemma arises: he dare not keep that piece of paper on him. He may be seen leaving the room—he may be searched. If the paper is found on him, it is certain doom. Probably, at this minute, too, he hears the sounds below of Mr Wells and John leaving the boudoir. He must act quickly. Where can he hide this terrible slip of paper? The contents of the waste-paper basket are kept and, in any case, are sure to be examined. There are no means of destroying it; and he dare not keep it. He looks round, and he sees—what do you think, mon ami?’
+
+I shook my head.
+
+‘In a moment he has torn the letter into long thin strips, and rolling them up into spills he thrusts them hurriedly in amongst the other spills in the vase on the mantelpiece.’
+
+I uttered an exclamation.
+
+‘No one would think of looking there,’ Poirot continued. ‘And he will be able, at his leisure, to come back and destroy this solitary piece of evidence against him.’
+
+‘Then, all the time, it was in the spill vase in Mrs Inglethorp’s bedroom, under our very noses?’ I cried.
+
+Poirot nodded.
+
+‘Yes, my friend. That is where I discovered my “last link”, and I owe that very fortunate discovery to you.’
+
+‘To me?’
+
+‘Yes. Do you remember telling me that my hand shook as I was straightening the ornaments on the mantelpiece?’
+
+‘Yes, but I don’t see –’
+
+‘No, but I saw. Do you know, my friend, I remembered that earlier in the morning, when we had been there together, I had straightened all the objects on the mantelpiece. And, if they were already straightened, there would be no need to straighten them again, unless, in the meantime, someone else had touched them.’
+
+‘Dear me,’ I murmured, ‘so that is the explanation of your extraordinary behaviour. You rushed down to Styles, and found it still there?’
+
+‘Yes, and it was a race for time.’
+
+‘But I still can’t understand why Inglethorp was such a fool to leave it there when he had plenty of opportunity to destroy it.’
+
+‘Ah, but he had no opportunity. I saw to that.’
+
+‘You?’
+
+ 
+‘Yes. Do you remember reproving me for taking the household into my confidence on the subject?’
+
+‘Yes.’
+
+‘Well, my friend, I saw there was just one chance. I was not sure then if Inglethorp was the criminal or not, but if he was I reasoned that he would not have the paper on him, but would have hidden it somewhere, and by enlisting the sympathy of the household I could effectually prevent his destroying it. He was already under suspicion, and by making the matter public I secured the services of about ten amateur detectives, who would be watching him unceasingly, and being himself aware of their watchfulness he would not dare seek further to destroy the document. He was, therefore, forced to depart from the house, leaving it in the spill vase.’
+
+‘But surely Miss Howard had ample opportunities of aiding him.’
+
+‘Yes, but Miss Howard did not know of the paper’s existence. In accordance with their pre-arranged plan, she never spoke to Alfred Inglethorp. They were supposed to be deadly enemies, and until John Cavendish was safely convicted they neither of them dared risk a meeting. Of course, I had a watch kept on Mr Inglethorp, hoping that sooner or later he would lead me to the hiding-place. But he was too clever to take any chances. The paper was safe where it was; since no one had thought of looking there in the first week, it was not likely they would do so afterwards. But for your lucky remark, we might never have been able to bring him to justice.’
+
+‘I understand that now; but when did you first begin to suspect Miss Howard?’
+
+‘When I discovered that she had told a lie at the inquest about the letter she had received from Mrs Inglethorp.’
+
+‘Why, what was there to lie about?’
+
+‘You saw that letter? Do you recall its general appearance?’
+
+‘Yes—more or less.’
+
+‘You will recollect, then, that Mrs Inglethorp wrote a very distinctive hand, and left large clear spaces between her words. But if you look at the date at the top of the letter you will notice that “July 17th” is quite different in this respect. Do you see what I mean?’
+
+‘No,’ I confessed, ‘I don’t.’
+
+‘You do not see that that letter was not written on the 17th, but on the 7th—the day after Miss Howard’s departure? The “1” was written in before the “7” to turn it into the “17th”.’
+
+‘But why?’
+
+‘That is exactly what I asked myself. Why does Miss Howard suppress the letter written on the 17th, and produce this faked one instead? Because she did not wish to show the letter of the 17th. Why, again? And at once a suspicion dawned in my mind. You will remember my saying that it was wise to beware of people who were not telling the truth.’
+
+‘And yet,’ I cried indignantly, ‘after that, you gave me two reasons why Miss Howard could not have committed the crime!’
+
+‘And very good reasons too,’ replied Poirot. ‘For a long time they were a stumbling-block to me until I remembered a very significant fact: that she and Alfred Inglethorp were cousins. She could not have committed the crime single-handed, but the reasons against that did not debar her from being an accomplice. And, then, there was that rather overvehement hatred of hers! It concealed a very opposite emotion. There was, undoubtedly, a tie of passion between them long before he came to Styles. They had already arranged their infamous plot—that he should marry this rich, but rather foolish old lady, induce her to make a will leaving her money to him, and then gain their ends by a very cleverly conceived crime. If all had gone as they planned, they would probably have left England, and lived together on their poor victim’s money.
+
+‘They are a very astute and unscrupulous pair. While suspicion was to be directed against him, she would be making quiet preparations for a very different dénouement. She arrives from Middlingham with all the compromising items in her possession. No suspicion attaches to her. No notice is paid to her coming and going in the house. She hides the strychnine and glasses in John’s room. She puts the beard in the attic. She will see to it that sooner or later they are duly discovered.’
+
+‘I don’t quite see why they tried to fix the blame on John,’ I remarked. ‘It would have been much easier for them to bring the crime home to Lawrence.’
+
+‘Yes, but that was mere chance. All the evidence against him arose out of pure accident. It must, in fact, have been distinctly annoying to the pair of schemers.’
+
+‘His manner was unfortunate,’ I observed thoughtfully.
+
+‘Yes. You realize, of course, what was the back of that?’
+
+‘No.’
+
+‘You did not understand that he believed Mademoiselle Cynthia guilty of the crime?’
+
+‘No,’ I exclaimed, astonished. ‘Impossible!’
+
+‘Not at all. I myself nearly had the same idea. It was in my mind when I asked Mr Wells that first question about the will. Then there were the bromide powders which she had made up, and her clever male impersonations, as Dorcas recounted them to us. There was really more evidence against her than anyone else.’
+
+‘You are joking, Poirot!’
+
+ 
+‘No. Shall I tell you what made Monsieur Lawrence turn so pale when he first entered his mother’s room on the fatal night? It was because, whilst his mother lay there, obviously poisoned, he saw, over your shoulder, that the door into Mademoiselle Cynthia’s room was unbolted.’
+
+‘But he declared that he saw it bolted!’ I cried.
+
+‘Exactly,’ said Poirot dryly. ‘And that was just what confirmed my suspicion that it was not. He was shielding Mademoiselle Cynthia.’
+
+‘But why should he shield her?’
+
+‘Because he is in love with her.’
+
+I laughed.
+
+‘There, Poirot, you are quite wrong! I happen to know for a fact that, far from being in love with her, he positively dislikes her.’
+
+‘Who told you that, mon ami?’
+
+‘Cynthia herself.’
+
+‘La pauvre petite! And she was concerned?’
+
+‘She said that she did not mind at all.’
+
+‘Then she certainly did mind very much,’ remarked Poirot. ‘They are like that –les femmes!’
+
+‘What you say about Lawrence is a great surprise to me,’ I said.
+
+‘But why? It was most obvious. Did not Monsieur Lawrence make the sour face every time Mademoiselle Cynthia spoke and laughed with his brother? He had taken it into his long head that Mademoiselle Cynthia was in love with Monsieur John. When he entered his mother’s room and saw her obviously poisoned, he jumped to the conclusion that Mademoiselle Cynthia knew something about the matter. He was nearly driven desperate. First he crushed the coffee-cup to powder under his feet, remembering that she had gone up with his mother the night before, and he determined that there should be no chance of testing its contents. Thenceforward, he strenuously, and quite uselessly, upheld the theory of “Death from natural causes”.’
+
+‘And what about the “extra coffee-cup”?’
+
+‘I was fairly certain that it was Mrs Cavendish who had hidden it, but I had to make sure. Monsieur Lawrence did not know at all what I meant; but, on reflection, he came to the conclusion that if he could find an extra coffee-cup anywhere his lady love would be cleared of suspicion. And he was perfectly right.’
+
+‘One thing more. What did Mrs Inglethorp mean by her dying words?’
+
+‘They were, of course, an accusation against her husband.’
+
+‘Dear me, Poirot,’ I said with a sigh, ‘I think you have explained everything. I am glad it has all ended so happily. Even John and his wife are reconciled.’
+
+‘Thanks to me.’
+
+‘How do you mean—thanks to you?’
+
+ 
+‘My dear friend, do you realize that it was simply and solely the trial which has brought them together again? That John Cavendish still loved his wife, I was convinced. Also, that she was equally in love with him. But they had drifted very far apart. It all arose from a misunderstanding. She married him without love. He knew it. He is a sensitive man in his way, he would not force himself upon her if she did not want him. And, as he withdrew, her love awoke. But they are both unusually proud, and their pride held them inexorably apart. He drifted into an entanglement with Mrs Raikes, and she deliberately cultivated the friendship of Dr Bauerstein. Do you remember the day of John Cavendish’s arrest, when you found me deliberating over a big decision?’
+
+‘Yes, I quite understood your distress.’
+
+‘Pardon me, mon ami, but you did not understand it in the least. I was trying to decide whether or not I would clear John Cavendish at once. I could have cleared him—though it might have meant a failure to convict the real criminals. They were entirely in the dark as to my real attitude up to the very last moment—which partly accounts for my success.’
+
+‘Do you mean that you could have saved John Cavendish from being brought to trial?’
+
+‘Yes, my friend. But I eventually decided in favour of “a woman’s happiness”. Nothing but the great danger through which they have passed could have brought these two proud souls together again.’
+
+I looked at Poirot in silent amazement. The colossal cheek of the little man! Who on earth but Poirot would have thought of a trial for murder as a restorer of conjugal happiness!
+
+‘I perceive your thoughts, mon ami,’ said Poirot, smiling at me. ‘No one but Hercule Poirot would have attempted such a thing! And you are wrong in condemning it. The happiness of one man and woman is the greatest thing in all the world.’
+
+His words took me back to earlier events. I remembered Mary as she lay white and exhausted on the sofa, listening, listening. There had come the sound of the bell below. She had started up. Poirot had opened the door, and meeting her agonized eyes had nodded gently. ‘Yes, madame,’ he said. ‘I have brought him back to you.’ He had stood aside, and as I went out I had seen the look in Mary’s eyes, as John Cavendish had caught his wife in his arms.
+
+‘Perhaps you are right, Poirot,’ I said gently. ‘Yes, it is the greatest thing in the world.’
+
+Suddenly, there was a tap at the door, and Cynthia peeped in.
+
+‘I—I—only –’
+
+‘Come in,’ I said, springing up.
+
+She came in, but did not sit down.
+
+ 
+‘I—only wanted to tell you something –’
+
+‘Yes?’
+
+Cynthia fidgeted with a little tassel for some moments, then, suddenly exclaiming: ‘You dears!’ kissed first me and then Poirot, and rushed out of the room again.
+
+‘What on earth does this mean?’ I asked, surprised.
+
+It was very nice to be kissed by Cynthia, but the publicity of the salute rather impaired the pleasure.
+
+‘It means that she has discovered Monsieur Lawrence does not dislike her as much as she thought,’ replied Poirot philosophically.
+
+‘But –’
+
+‘Here he is.’
+
+Lawrence at that moment passed the door.
+
+‘Eh! Monsieur Lawrence,’ called Poirot. ‘We must congratulate you, is it not so?’
+
+Lawrence blushed, and then smiled awkwardly. A man in love is a sorry spectacle. Now Cynthia had looked charming.
+
+I sighed.
+
+‘What is it, mon ami?’
+
+‘Nothing,’ I said sadly. ‘They are two delightful women!’
+
+‘And neither of them is for you?’ finished Poirot.
+
+‘Never mind. Console yourself, my friend. We may hunt together again, who knows? And then –’
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+
+
+Chapter 3
+
+The Night of the Tragedy
+
+
+
+
+To make this part of my story clear, I append the following plan of the first floor of Styles. The servants’ rooms are reached through the door B. They have no communication with the right wing, where the Inglethorps’ rooms were situated.
+
+[image: 43.jpg]
+
+ 
+It seemed to be the middle of the night when I was awakened by Lawrence Cavendish. He had a candle in his hand, and the agitation of his face told me at once that something was seriously wrong.
+
+‘What’s the matter?’ I asked, sitting up in bed, and trying to collect my scattered thoughts.
+
+‘We are afraid my mother is very ill. She seems to be having some kind of fit. Unfortunately she has locked herself in.’
+
+‘I’ll come at once.’
+
+I sprang out of bed, and pulling on a dressing-gown, followed Lawrence along the passage and the gallery to the right wing of the house.
+
+John Cavendish joined us, and one or two of the servants were standing round in a state of awe-stricken excitement. Lawrence turned to his brother.
+
+‘What do you think we had better do?’
+
+Never, I thought, had his indecision of character been more apparent.
+
+John rattled the handle of Mrs Inglethorp’s door violently, but with no effect. It was obviously locked or bolted on the inside. The whole household was aroused by now. The most alarming sounds were audible from the interior of the room. Clearly something must be done.
+
+‘Try going through Mr Inglethorp’s room, sir,’ cried Dorcas. ‘Oh, the poor mistress!’
+
+ 
+Suddenly I realized that Alfred Inglethorp was not with us—that he alone had given no sign of his presence. John opened the door of his room. It was pitch dark, but Lawrence was following with the candle, and by its feeble light we saw that the bed had not been slept in, and that there was no sign of the room having been occupied.
+
+We went straight to the connecting door. That, too, was locked or bolted on the inside. What was to be done?
+
+‘Oh, dear, sir,’ cried Dorcas, wringing her hands, ‘whatever shall we do?’
+
+‘We must try and break the door in, I suppose. It’ll be a tough job, though. Here, let one of the maids go down and wake Baily and tell him to go for Dr Wilkins at once. Now then, we’ll have a try at the door. Half a moment, though, isn’t there a door into Miss Cynthia’s room?’
+
+‘Yes, sir, but that’s always bolted. It’s never been undone.’
+
+‘Well, we might just see.’
+
+He ran rapidly down the corridor to Cynthia’s room. Mary Cavendish was there, shaking the girl—who must have been an unusually sound sleeper—and trying to wake her.
+
+In a moment or two he was back.
+
+‘No good. That’s bolted too. We must break in the door. I think this one is a shade less solid than the one in the passage.’
+
+We strained and heaved together. The framework of the door was solid, and for a long time it resisted our efforts, but at last we felt it give beneath our weight, and finally, with a resounding crash, it was burst open.
+
+We stumbled in together, Lawrence still holding his candle. Mrs Inglethorp was lying on the bed, her whole form agitated by violent convulsions, in one of which she must have overturned the table beside her. As we entered, however, her limbs relaxed, and she fell back upon the pillows.
+
+John strode across the room and lit the gas. Turning to Annie, one of the housemaids, he sent her downstairs to the dining-room for brandy. Then he went across to his mother whilst I unbolted the door that gave on the corridor.
+
+I turned to Lawrence, to suggest that I had better leave them now that there was no further need of my services, but the words were frozen on my lips. Never have I seen such a ghastly look on any man’s face. He was white as chalk, the candle he held in his shaking hand was sputtering on to the carpet, and his eyes, petrified with terror, or some such kindred emotion, stared fixedly over my head at a point on the further wall. It was as though he had seen something that turned him to stone. I instinctively followed the direction of his eyes, but I could see nothing unusual. The still feebly flickering ashes in the grate, and the row of prim ornaments on the mantelpiece, were surely harmless enough.
+
+The violence of Mrs Inglethorp’s attack seemed to be passing. She was able to speak in short gasps.
+
+‘Better now—very sudden—stupid of me—to lock myself in.’
+
+A shadow fell on the bed and, looking up, I saw Mary Cavendish standing near the door with her arm around Cynthia. She seemed to be supporting the girl, who looked utterly dazed and unlike herself. Her face was heavily flushed, and she yawned repeatedly.
+
+‘Poor Cynthia is quite frightened,’ said Mrs Cavendish in a low clear voice. She herself, I noticed, was dressed in her white land smock. Then it must be later than I thought. I saw that a faint streak of daylight was showing through the curtains of the windows, and that the clock on the mantelpiece pointed to close upon five o’clock.
+
+A strangled cry from the bed startled me. A fresh access of pain seized the unfortunate old lady. The convulsions were of a violence terrible to behold. Everything was confusion. We thronged round her, powerless to help or alleviate. A final convulsion lifted her from the bed, until she appeared to rest upon her head and her heels, with her body arched in an extraordinary manner. In vain Mary and John tried to administer more brandy. The moments flew. Again the body arched itself in that peculiar fashion.
+
+At that moment, Dr Bauerstein pushed his way authoritatively into the room. For one instant he stopped dead, staring at the figure on the bed, and, at the same instant, Mrs Inglethorp cried out in a strangled voice, her eyes fixed on the doctor:
+
+‘Alfred—Alfred –’ Then she fell back motionless on the pillows.
+
+With a stride, the doctor reached the bed, and seizing her arms worked them energetically, applying what I knew to be artificial respiration. He issued a few short sharp orders to the servants. An imperious wave of his hand drove us all to the door. We watched him, fascinated, though I think we all knew in our hearts that it was too late, and that nothing could be done now. I could see by the expression on his face that he himself had little hope.
+
+Finally he abandoned his task, shaking his head gravely. At that moment, we heard footsteps outside, and Dr Wilkins, Mrs Inglethorp’s own doctor, a portly, fussy little man, came bustling in.
+
+In a few words Dr Bauerstein explained how he had happened to be passing the lodge gates as the car came out, and had run up to the house as fast as he could, whilst the car went on to fetch Dr Wilkins. With a faint gesture of the hand, he indicated the figure on the bed.
+
+‘Ve—ry sad. Ve—ry sad,’ murmured Dr Wilkins. ‘Poor dear lady. Always did far too much—far too much—against my advice. I warned her, ‘Take—it—easy.’ But no—her zeal for good works was too great. Nature rebelled. Na—ture—re—belled.’
+
+Dr Bauerstein, I noticed, was watching the local doctor narrowly. He still kept his eyes fixed on him as he spoke.
+
+‘The convulsions were of a peculiar violence, Dr Wilkins. I am sorry you were not here in time to witness them. They were quite—tetanic in character.’
+
+‘Ah!’ said Dr Wilkins wisely.
+
+‘I should like to speak to you in private,’ said Dr Bauerstein. He turned to John. ‘You do not object?’
+
+‘Certainly not.’
+
+We all trooped out into the corridor, leaving the two doctors alone, and I heard the key turned in the lock behind us.
+
+We went slowly down the stairs. I was violently excited. I have a certain talent for deduction, and Dr Bauerstein’s manner had started a flock of wild surmises in my mind. Mary Cavendish laid her hand upon my arm.
+
+‘What is it? Why did Dr Bauerstein seem so—peculiar?’
+
+ 
+I looked at her.
+
+‘Do you know what I think?’
+
+‘What?’
+
+‘Listen!’ I looked round, the others were out of earshot. I lowered my voice to a whisper. ‘I believe she has been poisoned! I’m certain Dr Bauerstein suspects it.’
+
+‘What?’ She shrank against the wall, the pupils of her eyes dilating wildly. Then, with a sudden cry that startled me, she cried out: ‘No, no—not that—not that!’ And breaking from me, fled up the stairs. I followed her, afraid that she was going to faint. I found her leaning against the banisters, deadly pale. She waved me away impatiently.
+
+‘No, no—leave me. I’d rather be alone. Let me just be quiet for a minute or two. Go down to the others.’
+
+I obeyed her reluctantly. John and Lawrence were in the dining-room. I joined them. We were all silent, but I suppose I voiced the thoughts of us all when I at last broke it by saying:
+
+‘Where is Mr Inglethorp?’
+
+John shook his head.
+
+‘He’s not in the house.’
+
+Our eyes met. Where was Alfred Inglethorp? His absence was strange and inexplicable. I remembered Mrs Inglethorp’s dying words. What lay beneath them? What more could she have told us, if she had had time?
+
+ 
+At last we heard the doctors descending the stairs. Dr Wilkins was looking important and excited, and trying to conceal an inward exulation under a manner of decorous calm. Dr Bauerstein remained in the background, his grave bearded face unchanged. Dr Wilkins was the spokesman for the two. He addressed himself to John:
+
+‘Mr Cavendish, I should like your consent to a postmortem.’
+
+‘Is that necessary?’ asked John gravely. A spasm of pain crossed his face.
+
+‘Absolutely,’ said Dr Bauerstein.
+
+‘You mean by that –?’
+
+‘That neither Dr Wilkins nor myself could give a death certificate under the circumstances.’
+
+John bent his head.
+
+‘In that case, I have no alternative but to agree.’
+
+‘Thank you,’ said Dr Wilkins briskly. ‘We propose that it should take place tomorrow night—or rather tonight.’ And he glanced at the daylight. ‘Under the circumstances, I am afraid an inquest can hardly be avoided—these formalities are necessary, but I beg that you won’t distress yourselves.’
+
+There was a pause, and then Dr Bauerstein drew two keys from his pocket, and handed them to John.
+
+‘These are the keys of the two rooms. I have locked them and, in my opinion, they would be better kept locked for the present.’
+
+ 
+The doctors then departed.
+
+I had been turning over an idea in my head, and I felt that the moment had now come to broach it. Yet I was a little chary of doing so. John, I knew, had a horror of any kind of publicity, and was an easygoing optimist, who preferred never to meet trouble half-way. It might be difficult to convince him of the soundness of my plan. Lawrence, on the other hand, being less conventional, and having more imagination, I felt I might count upon as an ally. There was no doubt that the moment had come for me to take the lead.
+
+‘John,’ I said, ‘I am going to ask you something.’
+
+‘Well?’
+
+‘You remember my speaking of my friend Poirot? The Belgian who is here? He has been a most famous detective.’
+
+‘Yes.’
+
+‘I want you to let me call him in—to investigate this matter.’
+
+‘What—now? Before the post-mortem?’
+
+‘Yes, time is an advantage if—if—there has been foul play.’
+
+‘Rubbish!’ cried Lawrence angrily. ‘In my opinion the whole thing is a mare’s nest of Bauerstein’s! Wilkins hadn’t an idea of such a thing, until Bauerstein put it into his head. But, like all specialists, Bauerstein’s got a bee in his bonnet. Poisons are his hobby, so, of course, he sees them everywhere.’
+
+I confess that I was surprised by Lawrence’s attitude. He was so seldom vehement about anything.
+
+John hesitated.
+
+‘I can’t feel as you do, Lawrence,’ he said at last, ‘I’m inclined to give Hastings a free hand, though I should prefer to wait a bit. We don’t want any unnecessary scandal.’
+
+‘No, no,’ I cried eagerly, ‘you need have no fear of that. Poirot is discretion itself.’
+
+‘Very well then, have it your own way. I leave it in your hands. Though, if it is as we suspect, it seems a clear enough case. God forgive me if I am wronging him!’
+
+I looked at my watch. It was six o’clock. I determined to lose no time.
+
+Five minutes’ delay, however, I allowed myself. I spent it in ransacking the library until I discovered a medical book which gave a description of strychnine poisoning.
+
+ 
+ 
+
+
+
+
+
+
+
+ 
+
+Copyright
+
+
+This book is a work of fiction. The characters, incidents, and dialogue are drawn from the authors’ imagination and are not to be construed as real. Any resemblance to actual events or persons, living or dead, is entirely coincidental.
+
+
+THE MYSTERIOUS AFFAIR AT STYLES. Copyright © 1920 Agatha Christie Limited (a Chorion company). All rights reserved under International and Pan-American Copyright Conventions. By payment of the required fees, you have been granted the non-exclusive, non-transferable right to access and read the text of this e-book on-screen. No part of this text may be reproduced, transmitted, down-loaded, decompiled, reverse engineered, or stored in or introduced into any information storage and retrieval system, in any form or by any means, whether electronic or mechanical, now known or hereinafter invented, without the express written permission of HarperCollins e-books.
+
+
+ePub edition March 2008 ISBN 9780061750083
+ 
+
+10 9 8 7 6 5 4 3 2 1
+
+
+
+
+
+
+
+ 
+ 
+
+Chapter 1
+
+I Go to Styles
+
+
+
+
+The intense interest aroused in the public by what was known at the time as ‘The Styles Case’ has now somewhat subsided. Nevertheless, in view of the world-wide notoriety which attended it, I have been asked, both by my friend Poirot and the family themselves, to write an account of the whole story. This, we trust, will effectually silence the sensational rumours which still persist.
+
+I will therefore briefly set down the circumstances which led to my being connected with the affair.
+
+I had been invalided home from the Front; and, after spending some months in a rather depressing Convalescent Home, was given a month’s sick leave. Having no near relations or friends, I was trying to make up my mind what to do, when I ran across John Cavendish. I had seen very little of him for some years. Indeed, I had never known him particularly well. He was a good fifteen years my senior, for one thing, though he hardly looked his forty-five years. As a boy, though, I had often stayed at Styles, his mother’s place in Essex.
+
+We had a good yarn about old times, and it ended in his inviting me down to Styles to spend my leave there.
+
+‘The mater will be delighted to see you again—after all those years,’ he added.
+
+‘Your mother keeps well?’ I asked.
+
+‘Oh, yes. I suppose you know that she has married again?’
+
+I am afraid I showed my surprise rather plainly. Mrs Cavendish, who had married John’s father when he was a widower with two sons, had been a handsome woman of middle-age as I remembered her. She certainly could not be a day less than seventy now. I recalled her as an energetic, autocratic personality, somewhat inclined to charitable and social notoriety, with a fondness for opening bazaars and playing the Lady Bountiful. She was a most generous woman, and possessed a considerable fortune of her own.
+
+Their country-place, Styles Court, had been purchased by Mr Cavendish early in their married life. He had been completely under his wife’s ascendancy, so much so that, on dying, he left the place to her for her lifetime, as well as the larger part of his income; an arrangement that was distinctly unfair to his two sons. Their stepmother, however, had always been most generous to them; indeed, they were so young at the time of their father’s remarriage that they always thought of her as their own mother.
+
+Lawrence, the younger, had been a delicate youth. He had qualified as a doctor but early relinquished the profession of medicine, and lived at home while pursuing literary ambitions; though his verses never had any marked success.
+
+John practised for some time as a barrister, but had finally settled down to the more congenial life of a country squire. He had married two years ago, and had taken his wife to live at Styles, though I entertained a shrewd suspicion that he would have preferred his mother to increase his allowance, which would have enabled him to have a home of his own. Mrs Cavendish, however, was a lady who liked to make her own plans, and expected other people to fall in with them, and in this case she certainly had the whip hand, namely: the purse strings.
+
+John noticed my surprise at the news of his mother’s remarriage and smiled rather ruefully.
+
+‘Rotten little bounder too!’ he said savagely. ‘I can tell you, Hastings, it’s making life jolly difficult for us. As for Evie—you remember Evie?’
+
+‘No.’
+
+ 
+‘Oh, I suppose she was after your time. She’s the mater’s factotum, companion, Jack of all trades! A great sport—old Evie! Not precisely young and beautiful, but as game as they make them.’
+
+‘You were going to say –’
+
+‘Oh, this fellow! He turned up from nowhere, on the pretext of being a second cousin or something of Evie’s, though she didn’t seem particularly keen to acknowledge the relationship. The fellow is an absolute outsider, anyone can see that. He’s got a great black beard, and wears patent leather boots in all weathers! But the mater cottoned to him at once, took him on as secretary—you know how she’s always running a hundred societies?’
+
+I nodded.
+
+‘Well, of course, the war has turned the hundreds into thousands. No doubt the fellow was very useful to her. But you could have knocked us all down with a feather when, three months ago, she suddenly announced that she and Alfred were engaged! The fellow must be at least twenty years younger than she is! It’s simply bare-faced fortune hunting; but there you are—she is her own mistress, and she’s married him.’
+
+‘It must be a difficult situation for you all.’
+
+‘Difficult! It’s damnable!’
+
+Thus it came about that, three days later, I descended from the train at Styles St Mary, an absurd little station, with no apparent reason for existence, perched up in the midst of green fields and country lanes. John Cavendish was waiting on the platform, and piloted me out to the car.
+
+‘Got a drop or two of petrol still, you see,’ he remarked. ‘Mainly owing to the mater’s activities.’
+
+The village of Styles St Mary was situated about two miles from the little station, and Styles Court lay a mile the other side of it. It was a still, warm day in early July. As one looked out over the flat Essex country, lying so green and peaceful under the afternoon sun, it seemed almost impossible to believe that, not so very far away, a great war was running its appointed course. I felt I had suddenly strayed into another world. As we turned in at the lodge gates, John said:
+
+‘I’m afraid you’ll find it very quiet down here, Hastings.’
+
+‘My dear fellow, that’s just what I want.’
+
+‘Oh, it’s pleasant enough if you want to lead the idle life. I drill with the volunteers twice a week, and lend a hand at the farms. My wife works regularly “on the land”. She is up at five every morning to milk, and keeps at it steadily until lunch-time. It’s a jolly good life taking it all round—if it weren’t for that fellow Alfred Inglethorp!’ He checked the car suddenly, and glanced at his watch. ‘I wonder if we’ve time to pick up Cynthia. No, she’ll have started from the hospital by now.’
+
+‘Cynthia! That’s not your wife?’
+
+‘No, Cynthia is a protégée of my mother’s, the daughter of an old schoolfellow of hers, who married a rascally solicitor. He came a cropper, and the girl was left an orphan and penniless. My mother came to the rescue, and Cynthia has been with us nearly two years now. She works in the Red Cross Hospital at Tadminster, seven miles away.’
+
+As he spoke the last words, we drew up in front of the fine old house. A lady in a stout tweed skirt, who was bending over a flower bed, straightened herself at our approach.
+
+‘Hullo, Evie, here’s our wounded hero! Mr Hastings—Miss Howard.’
+
+Miss Howard shook hands with a hearty, almost painful, grip. I had an impression of very blue eyes in a sunburnt face. She was a pleasant-looking woman of about forty, with a deep voice, almost manly in its stentorian tones, and had a large sensible square body, with feet to match—these last encased in good thick boots. Her conversation, I soon found, was couched in the telegraphic style.
+
+‘Weeds grow like house afire. Can’t keep even with ’em. Shall press you in. Better be careful!’
+
+‘I’m sure I shall be only too delighted to make myself useful,’ I responded.
+
+ 
+‘Don’t say it. Never does. Wish you hadn’t later.’
+
+‘You’re a cynic, Evie,’ said John, laughing. ‘Where’s tea today—inside or out?’
+
+‘Out. Too fine a day to be cooped up in the house.’
+
+‘Come on then, you’ve done enough gardening for today. “The labourer is worthy of his hire,” you know. Come and be refreshed.’
+
+‘Well,’ said Miss Howard, drawing off her gardening gloves, ‘I’m inclined to agree with you.’
+
+She led the way round the house to where tea was spread under the shade of a large sycamore.
+
+A figure rose from one of the basket chairs, and came a few steps to meet us.
+
+‘My wife, Hastings,’ said John.
+
+I shall never forget my first sight of Mary Cavendish. Her tall, slender form, outlined against the bright light; the vivid sense of slumbering fire that seemed to find expression only in those wonderful tawny eyes of hers, remarkable eyes, different from any other woman’s that I have ever known; the intense power of stillness she possessed, which nevertheless conveyed the impression of a wild untamed spirit in an exquisitely civilized body—all these things are burnt into my memory. I shall never forget them.
+
+She greeted me with a few words of pleasant welcome in a low clear voice, and I sank into a basket chair feeling distinctly glad that I had accepted John’s invitation. Mrs Cavendish gave me some tea, and her few quiet remarks heightened my first impression of her as a thoroughly fascinating woman. An appreciative listener is always stimulating, and I described, in a humorous manner, certain incidents of my Convalescent Home, in a way which, I flatter myself, greatly amused my hostess. John, of course, good fellow though he is, could hardly be called a brilliant conversationalist.
+
+At that moment a well remembered voice floated through the open french window near at hand:
+
+‘Then you’ll write to the Princess after tea, Alfred? I’ll write to Lady Tadminster for the second day, myself. Or shall we wait until we hear from the Princess? In case of a refusal, Lady Tadminster might open it the first day, and Mrs Crosbie the second. Then there’s the Duchess—about the school fête.’
+
+There was the murmur of a man’s voice, and then Mrs Inglethorp’s rose in reply:
+
+‘Yes, certainly. After tea will do quite well. You are so thoughtful, Alfred dear.’
+
+The french window swung open a little wider, and a handsome white-haired old lady, with a somewhat masterful cast of features, stepped out of it on to the lawn. A man followed her, a suggestion of deference in his manner.
+
+Mrs Inglethorp greeted me with effusion.
+
+‘Why, if it isn’t too delightful to see you again, Mr Hastings, after all these years. Alfred, darling, Mr Hastings—my husband.’
+
+I looked with some curiosity at ‘Alfred darling’. He certainly struck a rather alien note. I did not wonder at John objecting to his beard. It was one of the longest and blackest I have ever seen. He wore gold-rimmed pince-nez, and had a curious impassivity of feature. It struck me that he might look natural on a stage, but was strangely out of place in real life. His voice was rather deep and unctuous. He placed a wooden hand in mine and said:
+
+‘This is a pleasure, Mr Hastings.’ Then, turning to his wife: ‘Emily dearest, I think that cushion is a little damp.’
+
+She beamed fondly at him, as he substituted another with every demonstration of the tenderest care. Strange infatuation of an otherwise sensible woman!
+
+With the presence of Mr Inglethorp, a sense of constraint and veiled hostility seemed to settle down upon the company. Miss Howard, in particular, took no pains to conceal her feelings. Mrs Inglethorp, however, seemed to notice nothing unusual. Her volubility, which I remembered of old, had lost nothing in the intervening years, and she poured out a steady flood of conversation, mainly on the subject of the forthcoming bazaar which she was organizing and which was to take place shortly. Occasionally she referred to her husband over a question of days or dates. His watchful and attentive manner never varied. From the very first I took a firm and rooted dislike to him, and I flatter myself that my first judgements are usually fairly shrewd.
+
+Presently Mrs Inglethorp turned to give some instructions about letters to Evelyn Howard, and her husband addressed me in his painstaking voice:
+
+‘Is soldiering your regular profession, Mr Hastings?’
+
+‘No, before the war I was in Lloyd’s.’
+
+‘And you will return there after it is over?’
+
+‘Perhaps. Either that or a fresh start altogether.’
+
+Mary Cavendish leant forward.
+
+‘What would you really choose as a profession, if you could just consult your inclination?’
+
+‘Well, that depends.’
+
+‘No secret hobby?’ she asked. ‘Tell me—you’re drawn to something? Everyone is—usually something absurd.’
+
+‘You’ll laugh at me.’
+
+She smiled.
+
+‘Perhaps.’
+
+‘Well, I’ve always had a secret hankering to be a detective!’
+
+‘The real thing—Scotland Yard? Or Sherlock Holmes?’
+
+‘Oh, Sherlock Holmes by all means. But really, seriously, I am awfully drawn to it. I came across a man in Belgium once, a very famous detective, and he quite inflamed me. He was a marvellous little fellow. He used to say that all good detective work was a mere matter of method. My system is based on his—though of course I have progressed rather further. He was a funny little man, a great dandy, but wonderfully clever.’
+
+‘Like a good detective story myself,’ remarked Miss Howard. ‘Lots of nonsense written, though. Criminal discovered in last chapter. Every one dumbfounded. Real crime—you’d know at once.’
+
+‘There have been a great number of undiscovered crimes,’ I argued.
+
+‘Don’t mean the police, but the people that are right in it. The family. You couldn’t really hoodwink them. They’d know.’
+
+‘Then,’ I said, much amused, ‘you think that if you were mixed up in a crime, say a murder, you’d be able to spot the murderer right off ?’
+
+‘Of course I should. Mightn’t be able to prove it to a pack of lawyers. But I’m certain I’d know. I’d feel it in my finger-tips if he came near me.’
+
+‘It might be a “she”,’ I suggested.
+
+‘Might. But murder’s a violent crime. Associate it more with a man.’
+
+‘Not in a case of poisoning.’ Mrs Cavendish’s clear voice startled me. ‘Dr Bauerstein was saying yesterday that, owing to the general ignorance of the more uncommon poisons among the medical profession, there were probably countless cases of poisoning quite unsuspected.’
+
+‘Why, Mary, what a gruesome conversation!’ cried Mrs Inglethorp. ‘It makes me feel as if a goose were walking over my grave. Oh, there’s Cynthia!’
+
+A young girl in VAD uniform ran lightly across the lawn.
+
+‘Why, Cynthia, you are late today. This is Mr Hastings—Miss Murdoch.’
+
+Cynthia Murdoch was a fresh-looking young creature, full of life and vigour. She tossed off her little VAD cap, and I admired the great loose waves of her auburn hair, and the smallness and whiteness of the hand she held out to claim her tea. With dark eyes and eyelashes she would have been a beauty.
+
+She flung herself down on the ground beside John, and as I handed her a plate of sandwiches she smiled up at me.
+
+‘Sit down here on the grass, do. It’s ever so much nicer.’
+
+I dropped down obediently.
+
+‘You work at Tadminster, don’t you, Miss Murdoch?’
+
+She nodded.
+
+‘For my sins.’
+
+‘Do they bully you, then?’ I asked, smiling.
+
+‘I should like to see them!’ cried Cynthia with dignity.
+
+ 
+‘I have got a cousin who is nursing,’ I remarked. ‘And she is terrified of “Sisters”.’
+
+‘I don’t wonder. Sisters are, you know, Mr Hastings. They simp-ly are! You’ve no idea! But I’m not a nurse, thank heaven, I work in the dispensary.’
+
+‘How many people do you poison?’ I asked, smiling.
+
+Cynthia smiled too.
+
+‘Oh, hundreds!’ she said.
+
+‘Cynthia,’ called Mrs Inglethorp, ‘do you think you could write a few notes for me?’
+
+‘Certainly, Aunt Emily.’
+
+She jumped up promptly, and something in her manner reminded me that her position was a dependent one, and that Mrs Inglethorp, kind as she might be in the main, did not allow her to forget it.
+
+My hostess turned to me.
+
+‘John will show you your room. Supper is at half-past seven. We have given up late dinner for some time now. Lady Tadminster, our Member’s wife—she was the late Lord Abbotsbury’s daughter—does the same. She agrees with me that one must set an example of economy. We are quite a war household; nothing is wasted here—every scrap of waste paper, even, is saved and sent away in sacks.’
+
+I expressed my appreciation, and John took me into the house and up the broad staircase, which forked right and left half-way to different wings of the building. My room was in the left wing, and looked out over the park.
+
+John left me, and a few minutes later I saw him from my window walking slowly across the grass arm in arm with Cynthia Murdoch. I heard Mrs Inglethorp call ‘Cynthia’ impatiently, and the girl started and ran back to the house. At the same moment, a man stepped out from the shadow of a tree and walked slowly in the same direction. He looked about forty, very dark with a melancholy clean-shaven face. Some violent emotion seemed to be mastering him. He looked up at my window as he passed, and I recognized him, though he had changed much in the fifteen years that had elapsed since we last met. It was John’s younger brother, Lawrence Cavendish. I wondered what it was that had brought that singular expression to his face.
+
+Then I dismissed him from my mind, and returned to the contemplation of my own affairs.
+
+The evening passed pleasantly enough; and I dreamed that night of that enigmatical woman, Mary Cavendish.
+
+The next morning dawned bright and sunny, and I was full of the anticipation of a delightful visit.
+
+I did not see Mrs Cavendish until lunch-time, when she volunteered to take me for a walk, and we spent a charming afternoon roaming in the woods, returning to the house about five.
+
+ 
+As we entered the large hall, John beckoned us both into the smoking-room. I saw at once by his face that something disturbing had occurred. We followed him in, and he shut the door after us.
+
+‘Look here, Mary, there’s the deuce of a mess. Evie’s had a row with Alfred Inglethorp, and she’s off.’
+
+‘Evie? Off ?’
+
+John nodded gloomily.
+
+‘Yes; you see she went to the mater, and—oh, here’s Evie herself.’
+
+Miss Howard entered. Her lips were set grimly together, and she carried a small suit-case. She looked excited and determined, and slightly on the defensive.
+
+‘At any rate,’ she burst out, ‘I’ve spoken my mind!’
+
+‘My dear Evelyn,’ cried Mrs Cavendish, ‘this can’t be true!’
+
+Miss Howard nodded grimly.
+
+‘True enough! Afraid I said some things to Emily she won’t forget or forgive in a hurry. Don’t mind if they’ve only sunk in a bit. Probably water off a duck’s back, though. I said right out: “You’re an old woman, Emily, and there’s no fool like an old fool. The man’s twenty years younger than you, and don’t you fool yourself as to what he married you for. Money! Well, don’t let him have too much of it. Farmer Raikes has got a very pretty young wife. Just ask your Alfred how much time he spends over there.” She was very angry. Natural! I went on: “I’m going to warn you, whether you like it or not. That man would as soon murder you in your bed as look at you. He’s a bad lot. You can say what you like to me, but remember what I’ve told you. He’s a bad lot!”’
+
+‘What did she say?’
+
+Miss Howard made an extremely expressive grimace.
+
+‘“Darling Alfred”—“dearest Alfred”—“wicked calumnies”—“wicked lies”—“wicked woman”—to accuse her “dear husband”! The sooner I left her house the better. So I’m off.’
+
+‘But not now?’
+
+‘This minute!’
+
+For a moment we sat and stared at her. Finally John Cavendish, finding his persuasions of no avail, went off to look up the trains. His wife followed him, murmuring something about persuading Mrs Inglethorp to think better of it.
+
+As she left the room, Miss Howard’s face changed. She leant towards me eagerly.
+
+‘Mr Hastings, you’re honest. I can trust you?’
+
+I was a little startled. She laid her hand on my arm, and sank her voice to a whisper.
+
+‘Look after her, Mr Hastings. My poor Emily. They’re a lot of sharks—all of them. Oh, I know what I’m talking about. There isn’t one of them that’s not hard up and trying to get money out of her. I’ve protected her as much as I could. Now I’m out of the way, they’ll impose upon her.’
+
+‘Of course, Miss Howard,’ I said, ‘I’ll do everything I can, but I’m sure you’re excited and overwrought.’
+
+She interrupted me by slowly shaking her forefinger.
+
+‘Young man, trust me. I’ve lived in the world rather longer than you have. All I ask you is to keep your eyes open. You’ll see what I mean.’
+
+The throb of the motor came through the open window, and Miss Howard rose and moved to the door. John’s voice sounded outside. With her hand on the handle, she turned her head over her shoulder, and beckoned to me.
+
+‘Above all, Mr Hastings, watch that devil—her husband!’
+
+There was no time for more. Miss Howard was swallowed up in an eager chorus of protests and goodbyes. The Inglethorps did not appear.
+
+As the motor drove away, Mrs Cavendish suddenly detached herself from the group, and moved across the drive to the lawn to meet a tall bearded man who had been evidently making for the house. The colour rose in her cheeks as she held out her hand to him.
+
+‘Who is that?’ I asked sharply, for instinctively I distrusted the man.
+
+ 
+‘That’s Dr Bauerstein,’ said John shortly.
+
+‘And who is Dr Bauerstein?’
+
+‘He’s staying in the village doing a rest cure, after a bad nervous breakdown. He’s a London specialist; a very clever man—one of the greatest living experts on poisons, I believe.’
+
+‘And he’s a great friend of Mary’s,’ put in Cynthia, the irrepressible.
+
+John Cavendish frowned and changed the subject.
+
+‘Come for a stroll, Hastings. This has been a most rotten business. She always had a rough tongue, but there is no stauncher friend in England than Evelyn Howard.’
+
+He took the path through the plantation, and we walked down to the village through the woods which bordered one side of the estate.
+
+As we passed through one of the gates on our way home again, a pretty young woman of gipsy type coming in the opposite direction bowed and smiled.
+
+‘That’s a pretty girl,’ I remarked appreciatively.
+
+John’s face hardened.
+
+‘That is Mrs Raikes.’
+
+‘The one that Miss Howard –’
+
+‘Exactly,’ said John, with rather unnecessary abruptness.
+
+I thought of the white-haired old lady in the big house, and that vivid wicked little face that had just smiled into ours, and a vague chill of foreboding crept over me. I brushed it aside.
+
+‘Styles is really a glorious old place,’ I said to John.
+
+He nodded rather gloomily.
+
+‘Yes, it’s a fine property. It’ll be mine some day—should be mine now by rights, if my father had only made a decent will. And then I shouldn’t be so damned hard up as I am now.’
+
+‘Hard up, are you?’
+
+‘My dear Hastings, I don’t mind telling you that I’m at my wits’ end for money.’
+
+‘Couldn’t your brother help you?’
+
+‘Lawrence? He’s gone through every penny he ever had, publishing rotten verses in fancy bindings. No, we’re an impecunious lot. My mother’s always been awfully good to us, I must say. That is, up to now. Since her marriage, of course –’ He broke off, frowning.
+
+For the first time I felt that, with Evelyn Howard, something indefinable had gone from the atmosphere. Her presence had spelt security. Now that security was removed—and the air seemed rife with suspicion. The sinister face of Dr Bauerstein recurred to me unpleasantly. A vague suspicion of everyone and everything filled my mind. Just for a moment I had a premonition of approaching evil.
+
+ 
+ 
+
+
+
+
+
+
+
+
+www.agathachristie.com
+
+
+
+
+ 
+
+
+For more information about Agatha Christie, please visit the official website.
+
+
+
+
+
+
+
+
+
+Chapter 4
+
+Poirot Investigates
+
+
+
+
+The house which the Belgians occupied in the village was quite close to the park gates. One could save time by taking a narrow path through the long grass, which cut off the detours of the winding drive. So I, accordingly, went that way. I had nearly reached the lodge, when my attention was arrested by the running figure of a man approaching me. It was Mr Inglethorp. Where had he been? How did he intend to explain his absence?
+
+He accosted me eagerly.
+
+‘My God! This is terrible! My poor wife! I have only just heard.’
+
+‘Where have you been?’ I asked.
+
+‘Denby kept me late last night. It was one o’clock before we’d finished. Then I found that I’d forgotten the latch-key after all. I didn’t want to arouse the household, so Denby gave me a bed.’
+
+ 
+‘How did you hear the news?’ I asked.
+
+‘Wilkins knocked Denby up to tell him. My poor Emily! She was so self-sacrificing—such a noble character. She overtaxed her strength.’
+
+A wave of revulsion swept over me. What a consummate hypocrite the man was!
+
+‘I must hurry on,’ I said, thankful that he did not ask me whither I was bound.
+
+In a few minutes I was knocking at the door of Leastways Cottage.
+
+Getting no answer, I repeated my summons impatiently. A window above me was cautiously opened, and Poirot himself looked out.
+
+He gave an exclamation of surprise at seeing me. In a few brief words, I explained the tragedy that had occurred, and that I wanted his help.
+
+‘Wait, my friend, I will let you in, and you shall recount to me the affairs whilst I dress.’
+
+In a few moments he had unbarred the door, and I followed him up to his room. There he installed me in a chair, and I related the whole story, keeping back nothing, and omitting no circumstance, however insignificant, whilst he himself made a careful and deliberate toilet.
+
+I told him of my awakening, of Mrs Inglethorp’s dying words, of her husband’s absence, of the quarrel the day before, of the scrap of conversation between Mary and her mother-in-law that I had overhead, of the former quarrel between Mrs Inglethorp and Evelyn Howard, and of the latter’s innuendoes.
+
+I was hardly as clear as I could wish. I repeated myself several times, and occasionally had to go back to some detail that I had forgotten. Poirot smiled kindly on me.
+
+‘The mind is confused? Is it not so? Take time, mon ami. You are agitated; you are excited—it is but natural. Presently, when we are calmer, we will arrange the facts, neatly, each in his proper place. We will examine—and reject. Those of importance we will put on one side; those of no importance, pouf !’—he screwed up his cherub-like face, and puffed comically enough—‘blow them away!’
+
+‘That’s all very well,’ I objected, ‘but how are you going to decide what is important, and what isn’t? That always seems the difficulty to me.’
+
+Poirot shook his head energetically. He was now arranging his moustache with exquisite care.
+
+‘Not so. Voyons! One fact leads to another—so we continue. Does the next fit in with that?A merveille! Good! We can proceed. This next little fact—no! Ah, that is curious! There is something missing—a link in the chain that is not there. We examine. We search. And that little curious fact, that possibly paltry little detail that will not tally, we put it here!’ He made an extravagant gesture with his hand. ‘It is significant! It is tremendous!’
+
+‘Y—es –’
+
+‘Ah!’ Poirot shook his forefinger so fiercely at me that I quailed before it. ‘Beware! Peril to the detective who says: “It is so small—it does not matter. It will not agree. I will forget it.” That way lies confusion! Everything matters.’
+
+‘I know. You always told me that. That’s why I have gone into all the details of this thing whether they seemed to me relevant or not.’
+
+‘And I am pleased with you. You have a good memory, and you have given me the facts faithfully. Of the order in which you present them, I say nothing—truly, it is deplorable! But I make allowances—you are upset. To that I attribute the circumstance that you have omitted one fact or paramount importance.’
+
+‘What is that?’ I asked.
+
+‘You have not told me if Mrs Inglethorp ate well last night.’
+
+I stared at him. Surely the war had affected the little man’s brain. He was carefully engaged in brushing his coat before putting it on, and seemed wholly engrossed in the task.
+
+‘I don’t remember,’ I said. ‘And, anyway, I don’t see –’
+
+‘You do not see? But it is of the first importance.’
+
+‘I can’t see why,’ I said, rather nettled. ‘As far as I can remember, she didn’t eat much. She was obviously upset, and it had taken her appetite away. That was only natural.’
+
+‘Yes,’ said Poirot thoughtfully, ‘it was only natural.’
+
+He opened a drawer, and took out a small despatchcase, then turned to me.
+
+‘Now I am ready. We will proceed to the château, and study matters on the spot. Excuse me, mon ami, you dressed in haste, and your tie is on one side. Permit me.’ With a deft gesture, he rearranged it.
+
+‘C¸a y est! Now, shall we start?’
+
+We hurried up the village, and turned in at the lodge gates. Poirot stopped for a moment, and gazed sorrowfully over the beautiful expanse of park, still glittering with morning dew.
+
+‘So beautiful, so beautiful, and yet, the poor family, plunged in sorrow, prostrated with grief.’
+
+He looked at me keenly as he spoke, and I was aware that I reddened under his prolonged gaze.
+
+Was the family prostrated by grief ? Was the sorrow at Mrs Inglethorp’s death so great? I realized that there was an emotional lack in the atmosphere. The dead woman had not the gift of commanding love. Her death was a shock and a distress, but she would not be passionately regretted.
+
+Poirot seemed to follow my thoughts. He nodded his head gravely.
+
+ 
+‘No, you are right,’ he said, ‘it is not as though there was a blood tie. She has been kind and generous to these Cavendishes, but she was not their own mother. Blood tells—always remember that—blood tells.’
+
+‘Poirot,’ I said, ‘I wish you would tell me why you wanted to know if Mrs Inglethorp ate well last night? I have been turning it over in my mind, but I can’t see how it has anything to do with the matter.’
+
+He was silent for a minute or two as we walked along, but finally he said:
+
+‘I do not mind telling you—though, as you know, it is not my habit to explain until the end is reached. The present contention is that Mrs Inglethorp died of strychnine poisoning, presumably administered in her coffee.’
+
+‘Yes?’
+
+‘Well, what time was the coffee served?’
+
+‘About eight o’clock.’
+
+‘Therefore she drank it between then and halfpast eight—certainly not much later. Well, strychnine is a fairly rapid poison. Its effects would be felt very soon, probably in about an hour. Yet, in Mrs Inglethorp’s case, the symptoms do not manifest themselves until five o’clock the next morning: nine hours! But a heavy meal, taken at about the same time as the poison, might retard its effects, though hardly to that extent. Still, it is a possibility to be taken into account. But, according to you, she ate very little for supper, and yet the symptoms do not develop until early the next morning! Now that is a curious circumstance, my friend. Something may arise at the autopsy to explain it. In the meantime, remember it.’
+
+As we neared the house, John came out and met us. His face looked weary and haggard.
+
+‘This is a very dreadful business, Monsieur Poirot,’ he said. ‘Hastings has explained to you that we are anxious for no publicity?’
+
+‘I comprehend perfectly.’
+
+‘You see, it is only suspicion so far. We have nothing to go upon.’
+
+‘Precisely. It is a matter of precaution only.’
+
+John turned to me, taking out his cigarette-case, and lighting a cigarette as he did so.
+
+‘You know that fellow Inglethorp is back?’
+
+‘Yes. I met him.’
+
+John flung the match into an adjacent flower bed, a proceeding which was too much for Poirot’s feelings. He retrieved </pre></div>                                                                    </div>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+                <tr style="height:60px">
+                    <td id="footer" valign="top">
+                        <div class="container-fluid">
+<!-- footer begin -->
+<div class="row">
+    <div class="col-sm-8 footer-copyright">
+        <i>
+            Free ebooks since 2009.
+            <a class="footer-mailto" href="mailto: support@bookmail.org">
+                support@bookmail.org            </a>
+        </i>
+
+        <span class="hidden-xs" style="margin:0 0 0 15px;"> <a href="/faq.php">FAQ</a></span>
+        <span class="hidden-xs" style="margin:0 0 0 15px;"> <a href="/blog/">Blog</a></span>
+    </div>
+
+    <div class="col-sm-4">
+        <div class="pull-right footer-nav-right" role="navigation">
+            <ul class="nav navbar-nav">
+                <li class="visible-xs-block"><a href="/faq.php">FAQ</a></li>
+                <li class="visible-xs-block"><a href="/blog/">Blog</a></li>
+
+                <li><a href="/privacy.php">Privacy</a></li>
+                <li><a href="/dmca.php">DMCA</a></li>
+                <li class="dropup">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">English <span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a onclick="setLanguage('en'); return false;" href="//en.b-ok.cc/book/1240102/21cd11/?wrongHash">English</a></li><li><a onclick="setLanguage('ru'); return false;" href="//ru.b-ok.cc/book/1240102/21cd11/?wrongHash">Русский</a></li><li><a onclick="setLanguage('ua'); return false;" href="//ua.b-ok.cc/book/1240102/21cd11/?wrongHash">Українська</a></li><li><a onclick="setLanguage('pl'); return false;" href="//pl.b-ok.cc/book/1240102/21cd11/?wrongHash">Polski</a></li><li><a onclick="setLanguage('it'); return false;" href="//it.b-ok.cc/book/1240102/21cd11/?wrongHash">Italiano</a></li><li><a onclick="setLanguage('es'); return false;" href="//es.b-ok.cc/book/1240102/21cd11/?wrongHash">Español</a></li><li><a onclick="setLanguage('zh'); return false;" href="//zh.b-ok.cc/book/1240102/21cd11/?wrongHash">汉语</a></li><li><a onclick="setLanguage('id'); return false;" href="//id.b-ok.cc/book/1240102/21cd11/?wrongHash">Bahasa Indonesia</a></li><li><a onclick="setLanguage('in'); return false;" href="//in.b-ok.cc/book/1240102/21cd11/?wrongHash">हिन्दी</a></li><li><a onclick="setLanguage('pt'); return false;" href="//pt.b-ok.cc/book/1240102/21cd11/?wrongHash">Português</a></li><li><a onclick="setLanguage('jp'); return false;" href="//jp.b-ok.cc/book/1240102/21cd11/?wrongHash">日本語</a></li><li><a onclick="setLanguage('de'); return false;" href="//de.b-ok.cc/book/1240102/21cd11/?wrongHash">Deutsch</a></li><li><a onclick="setLanguage('fr'); return false;" href="//fr.b-ok.cc/book/1240102/21cd11/?wrongHash">Français</a></li><li><a onclick="setLanguage('th'); return false;" href="//th.b-ok.cc/book/1240102/21cd11/?wrongHash">ภาษาไทย</a></li><li><a onclick="setLanguage('el'); return false;" href="//el.b-ok.cc/book/1240102/21cd11/?wrongHash">ελληνικά </a></li><li><a onclick="setLanguage('ar'); return false;" href="//ar.b-ok.cc/book/1240102/21cd11/?wrongHash">اللغة العربية</a></li>                    </ul>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div></div>
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+
+        <!-- ggAdditionalHtml -->
+        
+    <script>
+        var Config = {"currentLanguage":"en","L":{"89":"rub.","90":"The file is located on an external resource","91":"It is a folder","92":"File from disk storage","93":"File is aviable by direct link","94":"Popular","95":"Limitation of downloading: no more than 2 files at same time","96":"Size","97":" Language","98":"Category"}};
+    </script>
+    <!--LiveInternet counter--><script type="text/javascript">
+new Image().src = "//counter.yadro.ru/hit;bookzz?r"+
+escape(document.referrer)+((typeof(screen)=="undefined")?"":
+";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+";"+Math.random();</script><!--/LiveInternet-->
+
+<iframe name="uploader" id="uploader" style="border:0px solid #ddd; width:90%; display:none;"></iframe>        <!-- /ggAdditionalHtml -->
+        
+                
+        <script>
+            if (typeof pagerOptions !== "undefined" && pagerOptions) {
+                $('div.paginator').paginator(pagerOptions);
+            }
+        </script>
+    </body>
+</html>

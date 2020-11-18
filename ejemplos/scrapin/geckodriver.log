@@ -1,0 +1,277 @@
+1590088081706	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilepvsR6k"
+1590088089429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590088089429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590088089429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590088089430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://68793272-07c3-41bf-9f1f-980305786c1c/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590088100582	Marionette	INFO	Listening on port 43947
+1590088100668	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590088124494	Marionette	INFO	Stopped listening on port 43947
+1590088299866	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC9U2fV"
+1590088301056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590088301056	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590088301057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590088301057	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://88b4d1e7-f394-44cd-886d-2352ffb9df7d/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590088304909	Marionette	INFO	Listening on port 42637
+1590088304994	Marionette	WARN	TLS certificate errors will be ignored for this session
+Exiting due to channel error.
+1590088336411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileOKPst1"
+1590088337288	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590088337289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590088337289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590088337289	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://95b30f4b-0aad-4663-a823-584c99fde20a/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590088340896	Marionette	INFO	Listening on port 38461
+1590088340930	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 560: NS_ERROR_ILLEGAL_VALUE
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+Exiting due to channel error.
+1590088371218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilelsE9Ej"
+1590088372045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590088372045	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590088372046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590088372046	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://f742f956-ee5b-423b-9788-ab653f22c7ce/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590088375597	Marionette	INFO	Listening on port 43251
+1590088375644	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590088398719	Marionette	INFO	Stopped listening on port 43251
+1590088548011	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefZ6ZvD"
+1590088553553	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590088553554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590088553554	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590088553555	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://5fd84d6b-7921-40ed-9101-b3097842f946/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590088570212	Marionette	INFO	Listening on port 39111
+1590088570305	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590088596397	Marionette	INFO	Stopped listening on port 39111
+1590088729298	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletIZZSM"
+1590088732451	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590088732452	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590088732453	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590088732454	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://16bed238-5db2-4442-92a2-af2e63247748/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590088737387	Marionette	INFO	Listening on port 37273
+1590088737434	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:7428): dconf-WARNING **: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permiso denegado
+
+(/usr/lib/firefox-esr/firefox-esr:7428): dconf-CRITICAL **: unable to create directory '/run/user/1000/snap.code/dconf': Permiso denegado.  dconf will not work properly.
+
+(/usr/lib/firefox-esr/firefox-esr:7428): dconf-CRITICAL **: unable to create directory '/run/user/1000/snap.code/dconf': Permiso denegado.  dconf will not work properly.
+
+(/usr/lib/firefox-esr/firefox-esr:7428): dconf-CRITICAL **: unable to create directory '/run/user/1000/snap.code/dconf': Permiso denegado.  dconf will not work properly.
+
+(/usr/lib/firefox-esr/firefox-esr:7471): dconf-WARNING **: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permiso denegado
+
+(/usr/lib/firefox-esr/firefox-esr:7471): dconf-CRITICAL **: unable to create directory '/run/user/1000/snap.code/dconf': Permiso denegado.  dconf will not work properly.
+
+(/usr/lib/firefox-esr/firefox-esr:7471): dconf-CRITICAL **: unable to create directory '/run/user/1000/snap.code/dconf': Permiso denegado.  dconf will not work properly.
+
+(/usr/lib/firefox-esr/firefox-esr:7471): dconf-CRITICAL **: unable to create directory '/run/user/1000/snap.code/dconf': Permiso denegado.  dconf will not work properly.
+[Parent 7345, Gecko_IOThread] WARNING: pipe error: Tubería rota: file /build/firefox-esr-LOMRMX/firefox-esr-68.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+1590088752361	Marionette	INFO	Stopped listening on port 37273
+1590088762497	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDIhAuJ"
+1590088763544	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590088763545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590088763545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590088763545	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://9562bf2e-45a2-426b-85ea-4e6cf899bfb3/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590088767158	Marionette	INFO	Listening on port 35551
+1590088767216	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:7633): dconf-WARNING **: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permiso denegado
+
+(/usr/lib/firefox-esr/firefox-esr:7633): dconf-CRITICAL **: unable to create directory '/run/user/1000/snap.code/dconf': Permiso denegado.  dconf will not work properly.
+
+(/usr/lib/firefox-esr/firefox-esr:7633): dconf-CRITICAL **: unable to create directory '/run/user/1000/snap.code/dconf': Permiso denegado.  dconf will not work properly.
+
+(/usr/lib/firefox-esr/firefox-esr:7633): dconf-CRITICAL **: unable to create directory '/run/user/1000/snap.code/dconf': Permiso denegado.  dconf will not work properly.
+1590088771836	Marionette	INFO	Stopped listening on port 35551
+1590088778146	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDS4CwR"
+1590088779195	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590088779196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590088779196	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590088779197	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://5ff640e2-dabe-41ef-a21e-b19290b7a3e6/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590088783047	Marionette	INFO	Listening on port 35223
+1590088783072	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:7807): dconf-WARNING **: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permiso denegado
+
+(/usr/lib/firefox-esr/firefox-esr:7807): dconf-CRITICAL **: unable to create directory '/run/user/1000/snap.code/dconf': Permiso denegado.  dconf will not work properly.
+
+(/usr/lib/firefox-esr/firefox-esr:7807): dconf-CRITICAL **: unable to create directory '/run/user/1000/snap.code/dconf': Permiso denegado.  dconf will not work properly.
+
+(/usr/lib/firefox-esr/firefox-esr:7807): dconf-CRITICAL **: unable to create directory '/run/user/1000/snap.code/dconf': Permiso denegado.  dconf will not work properly.
+1590088795414	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilel6quzA"
+1590088796443	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590088796444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590088796444	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590088796445	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://5a8e7266-dd6d-419d-96b8-06e0b586f1f5/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590088801031	Marionette	INFO	Listening on port 45153
+1590088802582	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590088829739	Marionette	INFO	Stopped listening on port 45153
+1590088832218	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile2QevY0"
+1590088833043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590088833043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590088833044	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590088833044	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://b7760fa1-2926-47ab-a696-df311a646da3/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590088836929	Marionette	INFO	Listening on port 43195
+1590088837031	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:8163): dconf-WARNING **: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permiso denegado
+
+(/usr/lib/firefox-esr/firefox-esr:8163): dconf-CRITICAL **: unable to create directory '/run/user/1000/snap.code/dconf': Permiso denegado.  dconf will not work properly.
+
+(/usr/lib/firefox-esr/firefox-esr:8163): dconf-CRITICAL **: unable to create directory '/run/user/1000/snap.code/dconf': Permiso denegado.  dconf will not work properly.
+
+(/usr/lib/firefox-esr/firefox-esr:8163): dconf-CRITICAL **: unable to create directory '/run/user/1000/snap.code/dconf': Permiso denegado.  dconf will not work properly.
+1590088851015	Marionette	INFO	Stopped listening on port 43195
+1590088860107	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemOJlWZ"
+1590088861204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590088861204	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590088861205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590088861205	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://c6c1fd71-d8a5-4b05-853f-22cb362ec590/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590088864910	Marionette	INFO	Listening on port 40995
+1590088864936	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+(/usr/lib/firefox-esr/firefox-esr:8340): dconf-WARNING **: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permiso denegado
+
+(/usr/lib/firefox-esr/firefox-esr:8340): dconf-CRITICAL **: unable to create directory '/run/user/1000/snap.code/dconf': Permiso denegado.  dconf will not work properly.
+
+(/usr/lib/firefox-esr/firefox-esr:8340): dconf-CRITICAL **: unable to create directory '/run/user/1000/snap.code/dconf': Permiso denegado.  dconf will not work properly.
+
+(/usr/lib/firefox-esr/firefox-esr:8340): dconf-CRITICAL **: unable to create directory '/run/user/1000/snap.code/dconf': Permiso denegado.  dconf will not work properly.
+[Parent 8267, Gecko_IOThread] WARNING: pipe error: Tubería rota: file /build/firefox-esr-LOMRMX/firefox-esr-68.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 727
+1590088929532	Marionette	INFO	Stopped listening on port 40995
+1590095860995	Marionette	INFO	Stopped listening on port 35223
+1590123698411	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehs1mJZ"
+1590123705086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590123705086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590123705086	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590123705087	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://cfd550dc-e11f-4803-811f-2aa3c68ed7c5/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590123716203	Marionette	INFO	Listening on port 32899
+1590123716294	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590123802749	Marionette	INFO	Stopped listening on port 32899
+1590124085731	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5Cb5V7"
+1590124094557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590124094557	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590124094558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590124094558	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://5c1abb35-1833-4253-afa9-dfb95716ea5f/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590124107358	Marionette	INFO	Listening on port 44385
+1590124107462	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x600027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Parent 24749, Gecko_IOThread] WARNING: pipe error (157): Conexión reinicializada por la máquina remota: file /build/firefox-esr-LOMRMX/firefox-esr-68.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1590124120489	Marionette	INFO	Stopped listening on port 44385
+1590124156850	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefir2F3"
+1590124160050	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590124160050	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590124160050	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590124160051	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://d694c8f8-f27e-429f-af92-d32faf4f7d01/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590124166956	Marionette	INFO	Listening on port 41821
+1590124167190	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590124219059	Marionette	INFO	Stopped listening on port 41821
+1590124739245	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV4Q17r"
+1590124753155	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590124753156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590124753156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590124753156	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://ddc1d565-62c0-4347-a3ef-fbc86bd6ec12/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590124766482	Marionette	INFO	Listening on port 38421
+1590124766520	Marionette	WARN	TLS certificate errors will be ignored for this session
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+[Child 26578, MediaPlayback #1] WARNING: 7fe8fde69090 OpenCubeb() failed to init cubeb: file /build/firefox-esr-LOMRMX/firefox-esr-68.8.0esr/dom/media/AudioStream.cpp, line 382
+[Child 26578, MediaPlayback #1] WARNING: Decoder=7fe8ff60f400 [OnMediaSinkAudioError]: file /build/firefox-esr-LOMRMX/firefox-esr-68.8.0esr/dom/media/MediaDecoderStateMachine.cpp, line 3639
+1590124809508	Marionette	INFO	Stopped listening on port 38421
+1590125085376	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile5iz6fh"
+1590125094900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590125094900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590125094900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590125094900	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://4b9962be-6d1e-439c-9614-371356568999/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590125105688	Marionette	INFO	Listening on port 35847
+1590125105744	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 560: NS_ERROR_ILLEGAL_VALUE
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 560: NS_ERROR_ILLEGAL_VALUE
+1590125166759	Marionette	INFO	Stopped listening on port 35847
+1590463114758	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileC9xpiS"
+1590463116190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590463116190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590463116190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590463116191	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://d60e80ae-1e90-4360-84a4-efe50ef04177/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590463125312	Marionette	INFO	Listening on port 33549
+1590463125384	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590463272171	Marionette	INFO	Stopped listening on port 33549
+1590606897657	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile88WfLY"
+1590606908397	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590606908397	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590606908397	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590606908398	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://62c3d2fe-de2b-4fe1-b801-55d2ecb61fdb/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590606929137	Marionette	INFO	Listening on port 44843
+1590606929212	Marionette	WARN	TLS certificate errors will be ignored for this session
+1590606935960	Marionette	INFO	Stopped listening on port 44843
+1590606965674	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileO10Tb6"
+1590606968539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1590606968539	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1590606968540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1590606968540	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://6202592a-a886-4521-a840-3c5836e290b8/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1590606980480	Marionette	INFO	Listening on port 41515
+1590606980529	Marionette	WARN	TLS certificate errors will be ignored for this session

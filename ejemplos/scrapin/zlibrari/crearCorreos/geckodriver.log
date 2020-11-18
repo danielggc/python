@@ -1,0 +1,171 @@
+1589482965287	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileY8SXBT"
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://a959e451-9cd7-402c-8822-4ea4f84a35dd/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1589482973854	Marionette	INFO	Listening on port 38091
+1589482973913	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.4a8bc1d8ab.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 530ms)
+JavaScript warning: blob:https://mail.protonmail.com/b2c0a9c5-9dbb-4ebd-bf52-3b30a25ba9ca, line 0: Successfully compiled asm.js code (total compilation time 528ms)
+JavaScript warning: blob:https://mail.protonmail.com/b2c0a9c5-9dbb-4ebd-bf52-3b30a25ba9ca, line 0: Successfully compiled asm.js code (total compilation time 32ms)
+JavaScript warning: blob:https://mail.protonmail.com/b2c0a9c5-9dbb-4ebd-bf52-3b30a25ba9ca, line 0: Successfully compiled asm.js code (total compilation time 68ms)
+JavaScript warning: blob:https://mail.protonmail.com/7da72a67-84c8-4a6a-8c17-4f996e72cf63, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/7da72a67-84c8-4a6a-8c17-4f996e72cf63, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: blob:https://mail.protonmail.com/7da72a67-84c8-4a6a-8c17-4f996e72cf63, line 0: Successfully compiled asm.js code (total compilation time 38ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1589482990682	Marionette	INFO	Stopped listening on port 38091
+1589570786028	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilexNxbrH"
+1589570793814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589570793814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589570793814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589570793814	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://196bb528-fdaf-4c24-9984-d2d17d3c913d/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589570805645	Marionette	INFO	Listening on port 39109
+1589570805789	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.4a8bc1d8ab.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 175ms)
+JavaScript warning: blob:https://mail.protonmail.com/c0c5c9d2-f7a5-43a7-9cad-63dd3220aa3b, line 0: Successfully compiled asm.js code (total compilation time 127ms)
+JavaScript warning: blob:https://mail.protonmail.com/c0c5c9d2-f7a5-43a7-9cad-63dd3220aa3b, line 0: Successfully compiled asm.js code (total compilation time 33ms)
+JavaScript warning: blob:https://mail.protonmail.com/c0c5c9d2-f7a5-43a7-9cad-63dd3220aa3b, line 0: Successfully compiled asm.js code (total compilation time 84ms)
+JavaScript warning: blob:https://mail.protonmail.com/d42e05a1-c0ae-4982-9784-96ab31942ac8, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/d42e05a1-c0ae-4982-9784-96ab31942ac8, line 0: Successfully compiled asm.js code (total compilation time 13ms)
+JavaScript warning: blob:https://mail.protonmail.com/d42e05a1-c0ae-4982-9784-96ab31942ac8, line 0: Successfully compiled asm.js code (total compilation time 45ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+
+(/usr/lib/firefox-esr/firefox-esr:7626): dconf-WARNING **: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permiso denegado
+1589571051972	Marionette	INFO	Stopped listening on port 39109
+1589571087464	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilei2DOBq"
+1589571093468	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1589571093469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1589571093469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1589571093469	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://6b230074-eb77-428d-8954-ae96cbaf3aab/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589571100378	Marionette	INFO	Listening on port 35311
+1589571100417	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: blob:https://mail.protonmail.com/565d6885-1ddf-426a-98dd-2b67f7b8f32d, line 0: Successfully compiled asm.js code (total compilation time 103ms)
+JavaScript warning: blob:https://mail.protonmail.com/565d6885-1ddf-426a-98dd-2b67f7b8f32d, line 0: Successfully compiled asm.js code (total compilation time 29ms)
+JavaScript warning: blob:https://mail.protonmail.com/565d6885-1ddf-426a-98dd-2b67f7b8f32d, line 0: Successfully compiled asm.js code (total compilation time 76ms)
+JavaScript warning: https://mail.protonmail.com/9.4a8bc1d8ab.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 37ms)
+JavaScript warning: blob:https://mail.protonmail.com/5a0ac141-05ae-48a5-84a4-e5efd419d30f, line 0: Successfully compiled asm.js code (total compilation time 13ms)
+JavaScript warning: blob:https://mail.protonmail.com/5a0ac141-05ae-48a5-84a4-e5efd419d30f, line 0: Successfully compiled asm.js code (total compilation time 21ms)
+JavaScript warning: blob:https://mail.protonmail.com/5a0ac141-05ae-48a5-84a4-e5efd419d30f, line 0: Successfully compiled asm.js code (total compilation time 61ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+
+(/usr/lib/firefox-esr/firefox-esr:7929): dconf-WARNING **: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permiso denegado
+[Parent 7822, Gecko_IOThread] WARNING: pipe error (91): Conexión reinicializada por la máquina remota: file /build/firefox-esr-LOMRMX/firefox-esr-68.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1589571229467	Marionette	INFO	Stopped listening on port 35311
+1589571914700	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileVpikx0"
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589571919025	Marionette	INFO	Listening on port 39819
+1589571919122	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://a959e451-9cd7-402c-8822-4ea4f84a35dd/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1589571947602	Marionette	INFO	Stopped listening on port 39819
+1589572013708	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDFl08X"
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589572016474	Marionette	INFO	Listening on port 35133
+1589572016515	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://a959e451-9cd7-402c-8822-4ea4f84a35dd/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+[Parent 8568, Gecko_IOThread] WARNING: pipe error (111): Conexión reinicializada por la máquina remota: file /build/firefox-esr-LOMRMX/firefox-esr-68.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1589572021712	Marionette	INFO	Stopped listening on port 35133
+1589572042106	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileG4mpSm"
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589572044012	Marionette	INFO	Listening on port 44319
+1589572044039	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://a959e451-9cd7-402c-8822-4ea4f84a35dd/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x600027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x600027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x600027,name=PNecko::Msg_RemoveRequestContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+1589572048487	Marionette	INFO	Stopped listening on port 44319
+1589572060690	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileu0VD8P"
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://a959e451-9cd7-402c-8822-4ea4f84a35dd/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+1589572062778	Marionette	INFO	Listening on port 34023
+1589572062812	Marionette	WARN	TLS certificate errors will be ignored for this session
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1E008F,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x35011D,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+[Parent 8974, Gecko_IOThread] WARNING: pipe error (113): Conexión reinicializada por la máquina remota: file /build/firefox-esr-LOMRMX/firefox-esr-68.8.0esr/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 358
+1589572087929	Marionette	INFO	Stopped listening on port 34023
+1589572171152	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilefaN7mS"
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 1790: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIIdleService.removeIdleObserver]
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 85: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 85: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 85: NS_ERROR_UNEXPECTED: 
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 85: NS_ERROR_UNEXPECTED: 
+1589572191371	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilef71mEl"
+JavaScript error: resource:///modules/sessionstore/SessionStore.jsm, line 1325: uncaught exception: 2147746065
+1589572193263	Marionette	INFO	Listening on port 38621
+1589572193285	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: undefined, line 14: Error: An unexpected error occurred
+JavaScript error: moz-extension://a959e451-9cd7-402c-8822-4ea4f84a35dd/lib/picture_in_picture_overrides.js, line 15: Error: Incorrect argument types for pictureInPictureParent.setOverrides.
+JavaScript warning: blob:https://mail.protonmail.com/5d17ab16-c397-4966-a424-c823d993558c, line 0: Successfully compiled asm.js code (total compilation time 33ms)
+JavaScript warning: blob:https://mail.protonmail.com/5d17ab16-c397-4966-a424-c823d993558c, line 0: Successfully compiled asm.js code (total compilation time 46ms)
+JavaScript warning: blob:https://mail.protonmail.com/5d17ab16-c397-4966-a424-c823d993558c, line 0: Successfully compiled asm.js code (total compilation time 92ms)
+JavaScript warning: https://mail.protonmail.com/9.4a8bc1d8ab.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://mail.protonmail.com/98c24cc2-f532-4b56-8b07-709a4e523e58, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://mail.protonmail.com/98c24cc2-f532-4b56-8b07-709a4e523e58, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://mail.protonmail.com/98c24cc2-f532-4b56-8b07-709a4e523e58, line 0: Successfully compiled asm.js code (total compilation time 69ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+ATTENTION: default value of option force_s3tc_enable overridden by environment.
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+
+(/usr/lib/firefox-esr/firefox-esr:9487): dconf-WARNING **: Unable to open /var/lib/flatpak/exports/share/dconf/profile/user: Permiso denegado
+1589572229885	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1589572234332	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1589572238434	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:237:64
+1589572569947	Marionette	INFO	Stopped listening on port 38621

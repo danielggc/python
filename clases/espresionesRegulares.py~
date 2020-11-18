@@ -1,0 +1,36 @@
+import re
+texto =" como hola un estan houy"
+encontrado=re.search('hola',texto)
+if encontrado:
+    print("se encontro la palabra")
+    print(encontrado.start())
+    print(encontrado.end())
+    print(encontrado.span())
+    print(encontrado.string)
+else :
+    print("aun no se a encontrado")
+
+
+
+texto2="hola pendejo hola asqueros"    
+encontrado2=re.match('hola',texto2)
+if encontrado2 :
+    print("hola si la encontro")
+else :
+    print("no se encontro")
+
+texto3="hola,esto es egemplo"
+encontrado3=re.split('un',texto3)
+
+if encontrado3 :
+    cadena2=re.split(',',texto3)
+    print(cadena2)
+    print("hola si la encontro")
+else :
+    print("no se encontro")
+
+texto4="hola pendejo hola"
+egemplo=re.sub('pendejo','pendeja',texto4)    
+print(egemplo)
+egemplo=re.findall('hola',texto4)
+print(egemplo)

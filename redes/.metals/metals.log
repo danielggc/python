@@ -1,0 +1,4 @@
+2020.07.10 09:36:15 INFO  started: Metals version 0.9.1 in workspace '/home/dgc7/ejersiciosLibros/pyaton/redes'
+2020.07.10 09:36:16 INFO  time: initialize in 1.72s
+2020.07.10 09:36:20 WARN  no build tool detected in workspace '/home/dgc7/ejersiciosLibros/pyaton/redes'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.07.10 10:16:21 INFO  shutting down Metals

@@ -1,0 +1,14 @@
+
+nameFile="/home/dgc7/Documentos/pytiton/amanzon.html"
+data=open(nameFile,'r+')
+print(data.read())
+data.seek(0)
+for Line in data.readlines():
+    for letter in Line.split(" "):
+      print(letter)
+      if letter[0-5]=='htpp':
+        print("hola\n\n")     
+
+
+data.close()
+print(data.closed)
